@@ -1,8 +1,9 @@
 const express = require("express");
-
 const app = express();
-
 const path = require("path");
+const cors = require('cors');
+
+
 
 // ** MIDDLEWARE ** //
 const whitelist = [
@@ -10,6 +11,8 @@ const whitelist = [
   "http://localhost:8080",
   "https://nyc-explained.herokuapp.com"
 ];
+
+
 const corsOptions = {
   origin: function(origin, callback) {
     console.log("** Origin of request " + origin);

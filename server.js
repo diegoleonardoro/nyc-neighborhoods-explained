@@ -8,7 +8,7 @@ const path = require("path");
 const whitelist = [
   "http://localhost:3000",
   "http://localhost:8080",
-  "___"
+  "https://nyc-explained.herokuapp.com"
 ];
 const corsOptions = {
   origin: function(origin, callback) {

@@ -1,0 +1,24 @@
+.title-illustration-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    font-size: 20px;
+    position: relative;
+}
+
+.boroughs-map-container{
+    display:flex;
+    position:relative;
+    width:100%;
+    align-items:center;
+    justify-content:center;
+    /* margin-top:-30px; */
+}
+
+.boroughs{
+    position:relative;
+    width:100%;
+}

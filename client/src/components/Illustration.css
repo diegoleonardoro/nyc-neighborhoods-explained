@@ -1,0 +1,193 @@
+#Layer_12 {
+  width: 500px;
+  position: relative;
+  margin-left:50px;
+  /* left: 50%;
+  transform: translate(-50%, 0); */
+  /* margin-top:15px; */
+}
+
+.cls-1 {
+  fill: #cb2831;
+}
+.cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-14,
+.cls-15,
+.cls-16,
+.cls-2,
+.cls-20,
+.cls-23,
+.cls-3,
+.cls-32,
+.cls-39,
+.cls-4,
+.cls-5,
+.cls-6,
+.cls-9 {
+  stroke: #000;
+}
+.cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-14,
+.cls-15,
+.cls-16,
+.cls-2,
+.cls-20,
+.cls-23,
+.cls-3,
+.cls-32,
+.cls-33,
+.cls-36,
+.cls-39,
+.cls-4,
+.cls-40,
+.cls-5,
+.cls-6,
+.cls-9 {
+  stroke-miterlimit: 10;
+}
+.cls-1,
+.cls-10,
+.cls-12,
+.cls-14,
+.cls-15,
+.cls-16,
+.cls-3,
+.cls-4,
+.cls-5,
+.cls-6 {
+  stroke-width: 0.75px;
+}
+.cls-2 {
+  fill: #e0d1ca;
+}
+.cls-11,
+.cls-2,
+.cls-23,
+.cls-39,
+.cls-40 {
+  stroke-width: 0.5px;
+}
+.cls-3 {
+  fill: #a09a97;
+}
+.cls-4 {
+  fill: #bcd7db;
+}
+.cls-5 {
+  fill: #8da090;
+}
+.cls-6 {
+  fill: #95c3b6;
+}
+.cls-7 {
+  fill: #7d9f9e;
+}
+.cls-16,
+.cls-8 {
+  fill: #faf5f8;
+}
+.cls-32,
+.cls-33,
+.cls-36,
+.cls-39,
+.cls-40,
+.cls-9 {
+  fill: none;
+}
+.cls-36,
+.cls-9 {
+  stroke-width: 0.25px;
+}
+.cls-10 {
+  fill: #c14c2a;
+}
+.cls-11 {
+  fill: #8f9298;
+}
+.cls-12 {
+  fill: #a2b4a1;
+}
+.cls-13 {
+  fill: #bec5c6;
+}
+.cls-14,
+.cls-21 {
+  fill: #276b41;
+}
+.cls-15 {
+  fill: #686437;
+}
+.cls-17 {
+  fill: #d8d2d2;
+}
+.cls-18 {
+  fill: #1e4c2e;
+}
+.cls-19 {
+  fill: #9b3923;
+}
+.cls-20 {
+  fill: #9d764d;
+}
+.cls-22 {
+  fill: #222023;
+}
+.cls-23 {
+  fill: #ddbc91;
+}
+.cls-24 {
+  fill: #fff9f0;
+}
+.cls-25 {
+  fill: #03350f;
+}
+.cls-26 {
+  fill: #a9957c;
+}
+.cls-27 {
+  fill: #87796c;
+}
+.cls-28 {
+  fill: #006947;
+}
+.cls-29 {
+  fill: #1b2020;
+}
+.cls-30 {
+  fill: #141417;
+}
+.cls-31 {
+  fill: #0f1515;
+}
+.cls-33 {
+  stroke: #1b2020;
+}
+.cls-34 {
+  fill: #ecca00;
+}
+.cls-34,
+.cls-37,
+.cls-38 {
+  opacity: 0.57;
+}
+.cls-35 {
+  fill: #966900;
+}
+.cls-36 {
+  stroke: #966900;
+}
+.cls-37 {
+  fill: #ffb643;
+}
+.cls-38 {
+  fill: #cc9d53;
+}
+.cls-40 {
+  stroke: #020202;
+}

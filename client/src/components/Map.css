@@ -1,0 +1,36 @@
+.map-container{
+    position:relative;
+    width:90%;
+    height:500px;
+    margin:70px auto;
+    background-color: brown;
+}
+
+.svg-div-container{
+    position:relative;
+    width:40%;
+ 
+}
+
+.mapSvg{
+    position:relative;
+    transform:scale(0.7);
+    right:80px;
+    overflow: visible;
+   
+    /* left:50%;
+    transform: translate(-50%, 0%) */
+}
+
+.neighborhood-description{
+    background-color: rgb(242, 251, 255);
+    width:80%;
+    height:100px;
+    position:relative;
+    left:50%;
+    top:35px;
+    transform:translate(-50%, 0);
+    padding:10px;
+    overflow: scroll;
+    z-index: 1;
+  }

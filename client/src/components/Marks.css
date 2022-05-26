@@ -1,0 +1,20 @@
+.marks {
+  transform:translate(-200px, 0);
+}
+
+.mapPath {
+  stroke: rgb(223, 240, 241);
+  stroke-width: 0.2px;
+  fill: #2d4859;
+}
+
+/* .neighborhoodLine{
+  stroke: #3352ff;
+  stroke-width:2;
+} */
+
+.neighborhoodCircle {
+  fill: #f56410;
+}
+
+

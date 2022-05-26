@@ -1,0 +1,18 @@
+.neighborhoodsContainer{
+
+    display:flex;
+    flex-flow:row wrap;
+    width:95%;
+    justify-content: center;
+}
+
+.neighborhood{
+    background-color: rgb(204, 224, 238);
+    border-radius: 4px;
+    margin:4px;
+    padding:7px 12px;
+}
+
+.neighborhood:hover{
+    background-color: rgb(222, 232, 240);
+}

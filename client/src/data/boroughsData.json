@@ -1,0 +1,2623 @@
+[
+    {
+        "the_geom": [
+            "-73.8472005205491",
+            "40.89470517661004"
+        ],
+        "Name": "Wakefield",
+        "Borough": "Bronx",
+        "Description": "Formerly, Wakefield was home to large Irish American and Italian-American populations. During the 1980s, these communities were replaced with large Caribbean and Guyanese populations."
+    },
+    {
+        "the_geom": [
+            "-73.82993910812405",
+            "40.87429419303015"
+        ],
+        "Name": "Co-op City",
+        "Borough": "Bronx",
+        "Description": "Co-op City (short for Cooperative City) is a cooperative housing development located in the northeast section of the borough of the Bronx in New York City. Co-op City's 15,372 residential units, in 35 high rise buildings and seven clusters of townhouses, make it the largest single residential development in the United States."
+    },
+    {
+        "the_geom": [
+            "-73.82780644716419",
+            "40.88755567735082"
+        ],
+        "Name": "Eastchester",
+        "Borough": "Bronx",
+        "Description": "The neighborhood was historically heavily Ashkenazi-Jewish and Italian-American, It has the same name as a modern-day town located approximately 5 miles to the north, as the neighborhood was included in the Town of Eastchester's extent until the late 19th century upon annexation by the City of New York, its boundaries roughly matching the former Village of Eastchester, which was incorporated on March 25, 1895."
+    },
+    {
+        "the_geom": [
+            "-73.90564259591689",
+            "40.895437426903875"
+        ],
+        "Name": "Fieldston",
+        "Borough": "Bronx",
+        "Description": "Fieldston is a privately owned affluent neighborhood in the Riverdale section of the northwestern part of the New York City borough of the Bronx. It is bounded by Manhattan College Parkway to the south, Henry Hudson Parkway to the west, 250th Street to the north, and Broadway to the east. It is noted for its rural atmosphere, large houses and abundance of trees."
+    },
+    {
+        "the_geom": [
+            "-73.91258546108577",
+            "40.89083449389134"
+        ],
+        "Name": "Riverdale",
+        "Borough": "Bronx",
+        "Description": "Riverdale, which had a population of 47,850 as of the 2000 United States Census, contains the city's northernmost point, at the College of Mount Saint Vincent."
+    },
+    {
+        "the_geom": [
+            "-73.90281798724611",
+            "40.88168737120525"
+        ],
+        "Name": "Kingsbridge",
+        "Borough": "Bronx",
+        "Description": "Kingsbridge is a working- and middle-class residential neighborhood in the northwest portion of the Bronx, New York City. Kingsbridge's boundaries are Manhattan College Parkway to the north, the Major Deegan Expressway or Bailey Avenue to the east, West 230th Street to the south, and Irwin Avenue to the west."
+    },
+    {
+        "the_geom": [
+            "-73.91065965862988",
+            "40.87655077879968"
+        ],
+        "Name": "Marble Hill",
+        "Borough": "Manhattan",
+        "Description": "Marble Hill is the northernmost neighborhood in the New York City borough of Manhattan. It is one of the few areas within the Manhattan borough that are not located on Manhattan Island. Politically a part of New York County, Marble Hill became an island in the Harlem River when it was separated from the island of Manhattan by the construction of the Harlem Ship Canal in 1895."
+    },
+    {
+        "the_geom": [
+            "-73.86731496814183",
+            "40.898272612138086"
+        ],
+        "Name": "Woodlawn",
+        "Borough": "Bronx",
+        "Description": "Woodlawn Heights, also known as Woodlawn, is a predominantly Irish-American working class neighborhood at the very north end of the borough of the Bronx in New York City"
+    },
+    {
+        "the_geom": [
+            "-73.87939073956817",
+            "40.877224155994504"
+        ],
+        "Name": "Norwood",
+        "Borough": "Bronx",
+        "Description": "In the 1970s through the 1990s the neighborhood was well known for its Irish and Irish American population, having attracted a number of immigrants from Catholic areas of Northern Ireland who fled the Troubles, and others seeking work. During this time that the neighborhood became known by two more names: Bainbridge, after the Bainbridge Avenue – East 204th Street commercial strip – included Irish restaurants, groceries, and pubs, and Little Belfast, after the city from which many immigrants came."
+    },
+    {
+        "the_geom": [
+            "-73.85744642974214",
+            "40.88103887819214"
+        ],
+        "Name": "Williamsbridge",
+        "Borough": "Bronx",
+        "Description": "According to the New York City Parks Department, Williamsbridge was named for 18th Century farmer John Williams, who had a farm on the east bank of the Bronx River in the vicinity of Gun Hill Road and White Plains Road, and was credited with building the first bridge over the Bronx River.[4] It incorporated as a village on November 23, 1888."
+    },
+    {
+        "the_geom": [
+            "-73.83579759808124",
+            "40.86685810725274"
+        ],
+        "Name": "Baychester",
+        "Borough": "Bronx",
+        "Description": "Baychester is dominated by one and two family homes of various styles. The total land area is 2.61 square miles. The area is low lying and flat; some parts of the East Bronx are built on marshland and valleys."
+    },
+    {
+        "the_geom": [
+            "-73.85475564018006",
+            "40.85741349808869"
+        ],
+        "Name": "Pelham Parkway",
+        "Borough": "Bronx",
+        "Description": "The neighborhood has a significantly diverse population including Albanians (the largest concentration in New York City), Arabs, African Americans, Bosnians, Dominicans, Filipino, Germans, Guyanese, Indians, Irish, Italians, Jamaicans, Jews, Muslims, Pakistanis, Puerto Ricans, and Russians. Hispanics of various races account for 45% of the community; 38% of the community are non-Hispanic White and 20% non-Hispanic Black."
+    },
+    {
+        "the_geom": [
+            "-73.7864884526742",
+            "40.84724670491817"
+        ],
+        "Name": "City Island",
+        "Borough": "Bronx",
+        "Description": "Originally inhabited by the Siwanoy band of Lenape Indians, City Island later was settled by Europeans as part of property and estate bought by English nobleman Thomas Pell in 1654.[5] Prior to that, English settlers led by Anne Hutchinson (seeking religious freedom) settled in an area nearby on the river (now known as the Hutchinson River) in 1642."
+    },
+    {
+        "the_geom": [
+            "-73.88551218419137",
+            "40.87018516497537"
+        ],
+        "Name": "Bedford Park",
+        "Borough": "Bronx",
+        "Description": "Bedford Park is a residential neighborhood in the northwest Bronx, New York City, between the New York Botanical Garden and Lehman College. Bedford Park is home to people of many ethnicities including Korean, Indians, and Bangladeshis. Reflecting a population greatly composed of foreign-born immigrants, there are distinct ethnic enclaves in Bedford Park."
+    },
+    {
+        "the_geom": [
+            "-73.91041596191317",
+            "40.85572707719668"
+        ],
+        "Name": "University Heights",
+        "Borough": "Bronx",
+        "Description": "The neighborhood takes its name from the hill on which New York University's Bronx campus was built in 1894. The campus includes the Hall of Fame for Great Americans. Although NYU sold the campus to the City University of New York to house Bronx Community College in 1973, the neighborhood name has endured."
+    },
+    {
+        "the_geom": [
+            "-73.91967159119572",
+            "40.84789792606274"
+        ],
+        "Name": "Morris Heights",
+        "Borough": "Bronx",
+        "Description": "Morris Heights has a population of around 36,779. Almost half the population lives below the poverty line and receives public assistance (TANF, Home Relief, Supplemental Security Income, and Medicaid). The vast majority of residents in the area are of Hispanic or African American descent. The majority of households are renter occupied."
+    },
+    {
+        "the_geom": [
+            "-73.8964265598163",
+            "40.86099679638657"
+        ],
+        "Name": "Fordham",
+        "Borough": "Bronx",
+        "Description": "Fordham is dominated by 5- and 6-story apartment buildings, often set flush to the sidewalk. Many of the apartments on the Grand Concourse are taller. The New York Botanical Garden and the Wildlife Conservation Society's Bronx Zoo, both inside Bronx Park, collectively occupy dozens of acres of land within the neighborhood."
+    },
+    {
+        "the_geom": [
+            "-73.88735617532345",
+            "40.84269615786057"
+        ],
+        "Name": "East Tremont",
+        "Borough": "Bronx",
+        "Description": "East Tremont is dominated by five and six story tenement buildings, older multi-unit homes, vacant lots, and newly constructed apartment buildings. Most of the original housing stock was structurally damaged by arson and eventually razed by the city. The land area, somewhat hilly, is less than one square mile."
+    },
+    {
+        "the_geom": [
+            "-73.87774474910552",
+            "40.83947505672657"
+        ],
+        "Name": "West Farms",
+        "Borough": "Bronx",
+        "Description": "West Farms is dominated by 5 and 6-story tenement buildings, older multi-unit homes, vacant lots, and newly constructed subsidized attached multi-unit townhouses and apartment buildings. Most of the original housing stock was structurally damaged by arson and eventually razed by the city. The total land area is less than one square mile. The terrain is somewhat hilly."
+    },
+    {
+        "the_geom": [
+            "-73.92610209358138",
+            "40.8366230107061"
+        ],
+        "Name": "High Bridge",
+        "Borough": "Bronx",
+        "Description": "The neighborhood takes its name from the High Bridge, built in 1848 by Irish immigrants.[6] The structure originally carried Croton Aqueduct water across the Harlem River.[7] In 1864, a walkway was built across the High Bridge.[8] Use of the structure to deliver water to Manhattan ceased in 1949."
+    },
+    {
+        "the_geom": [
+            "-73.90942160757443",
+            "40.81975437059498"
+        ],
+        "Name": "Melrose",
+        "Borough": "Bronx",
+        "Description": "Predominantly German-American in the 19th century it was home to Haffen Brewing Company. The German population waned especially post-World War II. The neighborhood until the 1960s was mostly Irish and Italian.[4] It is now primarily Latino."
+    },
+    {
+        "the_geom": [
+            "-73.91609987487583",
+            "40.80623874935181"
+        ],
+        "Name": "Mott Haven",
+        "Borough": "Bronx",
+        "Description": "Mott Haven and Port Morris were the first neighborhoods to give rise to the term 'South Bronx'. Together, they were earlier known as the North Side or North New York. This area was part of New York County after the incorporation of Greater New York in 1898."
+    },
+    {
+        "the_geom": [
+            "-73.91322139386142",
+            "40.80166362775625"
+        ],
+        "Name": "Port Morris",
+        "Borough": "Bronx",
+        "Description": "Port Morris contains a variety of zoning districts ranging from manufacturing, commercial, residential, and mixed-use. The eastern half of Port Morris contains primarily light industrial, warehousing and distribution uses guided by the Port Morris Industrial Business Zone."
+    },
+    {
+        "the_geom": [
+            "-73.89578820094466",
+            "40.815099045458254"
+        ],
+        "Name": "Longwood",
+        "Borough": "Bronx",
+        "Description": "Longwood is dominated by pre-war, 5- and 6-story apartment buildings. Starting in the 1990s, a construction boom has resulted in a number of modern apartment buildings and row houses. Much of the original housing stock was structurally damaged by arson and eventually razed by the city between mid and late 1980s."
+    },
+    {
+        "the_geom": [
+            "-73.88331505955298",
+            "40.809729879387135"
+        ],
+        "Name": "Hunts Point",
+        "Borough": "Bronx",
+        "Description": "The land area in Hunts Point is dominated by industry. There is a small but dense residential pocket that occupies the high ground in the northern half of the peninsula along Hunts Point Avenue. It consists primarily of older pre-war architecture apartment buildings with a smaller number of semi-detached multi-unit row houses."
+    },
+    {
+        "the_geom": [
+            "-73.90150648943066",
+            "40.82359198585537"
+        ],
+        "Name": "Morrisania",
+        "Borough": "Bronx",
+        "Description": "Morrisania is dominated by public housing complexes of various types, vacant lots, and tenement buildings. Most of the original housing stock which consisted of older multi-unit homes and tenements were structurally damaged by arson and eventually razed by the city. The total land area is over a square mile."
+    },
+    {
+        "the_geom": [
+            "-73.86574609554933",
+            "40.82101219791406"
+        ],
+        "Name": "Soundview",
+        "Borough": "Bronx",
+        "Description": "There is a mixture of pre-war architecture, mid-century, and modern buildings. Row-houses, semi-detached homes, detached homes, and apartment buildings are found throughout; the overwhelming majority containing multiple units."
+    },
+    {
+        "the_geom": [
+            "-73.85414416189273",
+            "40.806551120035934"
+        ],
+        "Name": "Clason Point",
+        "Borough": "Bronx",
+        "Description": "There are large, residential housing complexes of various types. These include public housing, high-rise co-ops and rentals."
+    },
+    {
+        "the_geom": [
+            "-73.8163500215845",
+            "40.815109258040096"
+        ],
+        "Name": "Throgs Neck",
+        "Borough": "Bronx",
+        "Description": "The neighborhood has several beach clubs and a diverse housing stock, including middle-class homes, up-market waterfront condominiums, as well as the Throggs Neck Houses, built in 1953 as one of the first low-income public housing projects in New York City and later expanded twice."
+    },
+    {
+        "the_geom": [
+            "-73.82409926753857",
+            "40.84424593694742"
+        ],
+        "Name": "Country Club",
+        "Borough": "Bronx",
+        "Description": "As of 2018 Country Club has a population of around 7,500 people. It is a predominantly white neighborhood with around 73.0% of the population being non-Hispanic white, while approximately 22.3% are Hispanic or Latino, 3.5% are Asian, and the remaining are Black, two or more races."
+    },
+    {
+        "the_geom": [
+            "-73.8560031053579",
+            "40.83793782226733"
+        ],
+        "Name": "Parkchester",
+        "Borough": "Bronx",
+        "Description": "The Parkchester complex is composed of 171 four-sided brick buildings, either eight or 13 stories in height and numbered M (for Main) through 7 and M through 12, respectively. The 13 story buildings have dual elevators positioned side-by-side, while they eight-story buildings only have one."
+    },
+    {
+        "the_geom": [
+            "-73.8421940760445",
+            "40.840619496432744"
+        ],
+        "Name": "Westchester Square",
+        "Borough": "Bronx",
+        "Description": "Westchester Square is a residential neighborhood geographically located in the eastern section of the New York City borough of the Bronx."
+    },
+    {
+        "the_geom": [
+            "-73.86629918075617",
+            "40.84360847124722"
+        ],
+        "Name": "Van Nest",
+        "Borough": "Bronx",
+        "Description": "Van Nest has a population under 15,000. The neighborhood has a concentration of Puerto Ricans and also contains a significant African American population. A small longstanding Italian and Albanian population exist east of White Plains Road near Morris Park. The majority of residents rent. Almost 20% of the population lives below the poverty line."
+    },
+    {
+        "the_geom": [
+            "-73.85040178030428",
+            "40.84754906353638"
+        ],
+        "Name": "Morris Park",
+        "Borough": "Bronx",
+        "Description": "Housing in Morris Park is mostly one and two family homes of various styles. The neighborhood also has several apartment buildings. The total land area is a little over one-third of a square mile. The area is low-lying and relatively flat."
+    },
+    {
+        "the_geom": [
+            "-73.88845196134812",
+            "40.85727710073898"
+        ],
+        "Name": "Belmont",
+        "Borough": "Bronx",
+        "Description": "The neighborhood is noted for its 'close-knit community' and 'small town feel', and as a result of its cultural history and wide array of Italian businesses, is widely known as the 'Little Italy of the Bronx'. Arthur Avenue, noted for its local restaurants and markets, is its primary thoroughfare."
+    },
+    {
+        "the_geom": [
+            "-73.917190482104",
+            "40.8813949772709"
+        ],
+        "Name": "Spuyten Duyvil",
+        "Borough": "Bronx",
+        "Description": "The area is named after Spuyten Duyvil Creek. 'Spuyten Duyvil' may be literally translated as 'Spouting Devil' or Spuitende Duivel in Dutch, a reference to the strong and wild tidal currents found at that location. It may also be translated as 'Spewing Devil' or 'Spinning Devil', or more loosely as 'Devil's Whirlpool' or 'Devil's Spate.' "
+    },
+    {
+        "the_geom": [
+            "-73.90453054908934",
+            "40.9085428295067"
+        ],
+        "Name": "North Riverdale",
+        "Borough": "Bronx",
+        "Description": "One of the geographic characteristics which gives all of Riverdale its suburban quality is that it lies on a high ridge which separates it from the rest of the city. The highest part of the ridge, at 284.5 feet above sea level, lies in North Riverdale, near Iselin Avenue and 250th Street."
+    },
+    {
+        "the_geom": [
+            "-73.83207378240478",
+            "40.85064140940339"
+        ],
+        "Name": "Pelham Bay",
+        "Borough": "Bronx",
+        "Description": "The neighborhood is home to longstanding Italian American population with a recent influx of Hispanics changing the neighborhoods demographics considerably. Some homes have both Italian and American flags proudly waving."
+    },
+    {
+        "the_geom": [
+            "-73.82620275994081",
+            "40.82657951686926"
+        ],
+        "Name": "Schuylerville",
+        "Borough": "Bronx",
+        "Description": "Schuylerville (nicknamed 'Skyville') is a middle-class neighborhood located in the East Bronx area of New York City. Housing is mostly single-family and two-family houses"
+    },
+    {
+        "the_geom": [
+            "-73.81388514428627",
+            "40.82198611816354"
+        ],
+        "Name": "Edgewater Park",
+        "Borough": "Bronx",
+        "Description": "Edgewater Park once housed a mansion built by George T. Adee in 1856. He eventually leased the land to an Irish immigrant who was a member of St. Ann's Episcopal Church in Morrisania and invited church youth to camp on the grounds which became known as Edgewater Camp."
+    },
+    {
+        "the_geom": [
+            "-73.84802729582742",
+            "40.81901437698835"
+        ],
+        "Name": "Castle Hill",
+        "Borough": "Bronx",
+        "Description": "The land area contains a mix of uses but is primarily residential. There is a mixture of pre-war architecture, mid-century, and modern construction. Multi-unit attached and detached houses dominate much of the land area."
+    },
+    {
+        "the_geom": [
+            "-73.86332361652784",
+            "40.87137078192375"
+        ],
+        "Name": "Olinville",
+        "Borough": "Bronx",
+        "Description": "Olinville has a population of 11,907. Olinville is in Bronx County."
+    },
+    {
+        "the_geom": [
+            "-73.8416119483123",
+            "40.862965624780024"
+        ],
+        "Name": "Pelham Gardens",
+        "Borough": "Bronx",
+        "Description": "Pelham Gardens is dominated by single family homes with some small apartment buildings and 2-3 family homes. Many private homes have basement studio apartments but are classified as one family. The total land area is roughly two square miles."
+    },
+    {
+        "the_geom": [
+            "-73.91558941773451",
+            "40.834283807338544"
+        ],
+        "Name": "Concourse",
+        "Borough": "Bronx",
+        "Description": "Concourse is a neighborhood in the southwestern section of the New York City borough of the Bronx which includes the Bronx County Courthouse, the Bronx Museum of the Arts, and Yankee Stadium."
+    },
+    {
+        "the_geom": [
+            "-73.85053524451942",
+            "40.82977429787165"
+        ],
+        "Name": "Unionport",
+        "Borough": "Bronx",
+        "Description": "Unionport is a densely urban neighborhood (based on population density) located in Bronx, New York. Unionport real estate is primarily made up of small (studio to two bedroom) to medium sized (three or four bedroom) apartment complexes/high-rise apartments and small apartment buildings."
+    },
+    {
+        "the_geom": [
+            "-73.84808271877175",
+            "40.88456130303736"
+        ],
+        "Name": "Edenwald",
+        "Borough": "Bronx",
+        "Description": "The Edenwald Houses were built on the former Hebrew Orphan Asylum and was designed by architects Rodgers & Butler. Paul Tishman Company started building Edenwald Houses in 1951 at a cost of roughly $12 million."
+    },
+    {
+        "the_geom": [
+            "-74.03062069353821",
+            "40.62580106501069"
+        ],
+        "Name": "Bay Ridge",
+        "Borough": "Brooklyn",
+        "Description": "Until the early 1970s, Bay Ridge was dominated by its Norwegian community. By 1971, the 30,000-strong Norwegian community of Bay Ridge boasted that it was the fourth-largest Norwegian 'city' in the world."
+    },
+    {
+        "the_geom": [
+            "-73.99517998380736",
+            "40.61100890202048"
+        ],
+        "Name": "Bensonhurst",
+        "Borough": "Brooklyn",
+        "Description": "In the early 20th century, many Italians and Jewish migrants moved into the neighborhood, and prior to World War II, the neighborhood was about equally Jewish and Italian. In the 1940s an influx of immigrants from southern Italy moved in, leaving the area predominantly Italian."
+    },
+    {
+        "the_geom": [
+            "-74.01031618527792",
+            "40.64510294925433"
+        ],
+        "Name": "Sunset Park",
+        "Borough": "Brooklyn",
+        "Description": "Sunset Park is a neighborhood in the southwestern part of the borough of Brooklyn in New York City, bounded by Park Slope and Green-Wood Cemetery to the north, Borough Park to the east, Bay Ridge to the south, and Upper New York Bay to the west"
+    },
+    {
+        "the_geom": [
+            "-73.954240931274",
+            "40.730200984864744"
+        ],
+        "Name": "Greenpoint",
+        "Borough": "Brooklyn",
+        "Description": "At the time of European settlement in New York, Greenpoint was inhabited by the Keskachauge[8] (Keshaechqueren) Indians, a sub-tribe of the Lenape.[9] Contemporary accounts describe the area as remarkably verdant and beautiful."
+    },
+    {
+        "the_geom": [
+            "-73.97347087708452",
+            "40.59526001306597"
+        ],
+        "Name": "Gravesend",
+        "Borough": "Brooklyn",
+        "Description": "The name 'Gravesend' was given to the area by New Amsterdam's Dutch authorities, and probably comes from Dutch words which when combined can mean 'groves end' or 'Count's beach'."
+    },
+    {
+        "the_geom": [
+            "-73.96509448785343",
+            "40.576825065666085"
+        ],
+        "Name": "Brighton Beach",
+        "Borough": "Brooklyn",
+        "Description": "Brighton Beach is included in an area from Sheepshead Bay to Sea Gate that was purchased from the Native Americans in 1645 for a gun, a blanket and a kettle."
+    },
+    {
+        "the_geom": [
+            "-73.94318640482987",
+            "40.58689012678388"
+        ],
+        "Name": "Sheepshead Bay",
+        "Borough": "Brooklyn",
+        "Description": "Sheepshead Bay is mostly residential. Low-density, one-and-two-family attached and semi-attached houses are common near the western and eastern edges of the neighborhood. Higher-density condominiums and co-ops are more common near Ocean Avenue, at the center of the neighborhood."
+    },
+    {
+        "the_geom": [
+            "-73.95743840559946",
+            "40.61443251335102"
+        ],
+        "Name": "Manhattan Terrace",
+        "Borough": "Brooklyn",
+        "Description": "Manhattan Terrace is a neighborhood in Brooklyn with a total population of 40,650. It occupies approximately 1.23 square miles. There are 7,888 street trees per square mile."
+    },
+    {
+        "the_geom": [
+            "-73.95840106533912",
+            "40.63632589026681"
+        ],
+        "Name": "Flatbush",
+        "Borough": "Brooklyn",
+        "Description": "The name Flatbush is a calque of the Dutch language Vlacke bos (vlacke or vlak, meaning 'fla'; 'Flatbush' meaning 'flat woodland' or 'wooded plain'),[6][7] so named from woods that grew on the flat country"
+    },
+    {
+        "the_geom": [
+            "-73.9432911907359",
+            "40.67082917695298"
+        ],
+        "Name": "Crown Heights",
+        "Borough": "Brooklyn",
+        "Description": "In the early 20th Century, Crown Heights had begun as a fashionable residential neighborhood, a place for secondary homes in which Manhattan's growing bourgeois class could reside. The area benefited by having its rapid transit in a subway configuration."
+    },
+    {
+        "the_geom": [
+            "-73.93610256185843",
+            "40.64171776668965"
+        ],
+        "Name": "East Flatbush",
+        "Borough": "Brooklyn",
+        "Description": "Since the 1960s and especially through the 1970s, Caribbean immigrants have largely settled into East Flatbush as well as in other surrounding areas such as Prospect Lefferts Gardens, Flatbush, and Crown Heights"
+    },
+    {
+        "the_geom": [
+            "-73.98042110559481",
+            "40.64238195800357"
+        ],
+        "Name": "Kensington",
+        "Borough": "Brooklyn",
+        "Description": "The land where Kensington now sits was first colonized by Dutch farmers during the seventeenth century within the Town of Flatbush. It was re-settled by British colonists in 1737. First developed in 1885 after the completion of Ocean Parkway, the neighborhood was named after the place and borough in West London, at the turn of the century."
+    },
+    {
+        "the_geom": [
+            "-73.98007340430179",
+            "40.65694583575108"
+        ],
+        "Name": "Windsor Terrace",
+        "Borough": "Brooklyn",
+        "Description": "Windsor Terrace is home to mainly Irish-, German-, Polish-, and Italian-American families,[38] many having settled in its brick row and wood-frame houses when the neighborhood was first developed."
+    },
+    {
+        "the_geom": [
+            "-73.96485924262697",
+            "40.67682226225477"
+        ],
+        "Name": "Prospect Heights",
+        "Borough": "Brooklyn",
+        "Description": "The area has many Italianate and Neo-Grec rowhouses, and much of the neighborhood has been designated a New York City historic district."
+    },
+    {
+        "the_geom": [
+            "-73.91023536176615",
+            "40.66394994339758"
+        ],
+        "Name": "Brownsville",
+        "Borough": "Brooklyn",
+        "Description": "The area that would become Brownsville was first used by the Dutch for farming, as well as manufacturing stone slabs and other things used to construct buildings."
+    },
+    {
+        "the_geom": [
+            "-73.95811529220936",
+            "40.70714439344255"
+        ],
+        "Name": "Williamsburg",
+        "Borough": "Brooklyn",
+        "Description": "Since the late 1990s, Williamsburg has undergone significant gentrification characterized by a contemporary art scene, hipster culture, and vibrant nightlife. During the early 2000s, the neighborhood became a center for indie rock and electroclash."
+    },
+    {
+        "the_geom": [
+            "-73.92525797487053",
+            "40.69811611017905"
+        ],
+        "Name": "Bushwick",
+        "Borough": "Brooklyn",
+        "Description": "When Bushwick was founded, it was primarily an area for farming food and tobacco. As Brooklyn and New York City grew, factories that manufactured sugar, oil, and chemicals were built. The inventor Peter Cooper built a glue manufacturing plant, his first factory, in Bushwick. Immigrants from western Europe joined the original Dutch settlers."
+    },
+    {
+        "the_geom": [
+            "-73.94178488690304",
+            "40.6872316077205"
+        ],
+        "Name": "Bedford Stuyvesant",
+        "Borough": "Brooklyn",
+        "Description": "The neighborhood's name combines the names of the Village of Bedford and the Stuyvesant Heights neighborhoods. Stuyvesant is derived from Peter Stuyvesant, the last governor of the colony of New Netherland."
+    },
+    {
+        "the_geom": [
+            "-73.99378225496432",
+            "40.69586372272413"
+        ],
+        "Name": "Brooklyn Heights",
+        "Borough": "Brooklyn",
+        "Description": "Brooklyn Heights was the first neighborhood protected by the 1965 Landmarks Preservation Law of New York City. The neighborhood is largely composed of blocks of picturesque rowhouses and a few mansions."
+    },
+    {
+        "the_geom": [
+            "-73.9985613921847",
+            "40.68791972248561"
+        ],
+        "Name": "Cobble Hill",
+        "Borough": "Brooklyn",
+        "Description": "Through its early history, the area now called 'Cobble Hill' was considered to be part of South Brooklyn, Red Hook, or simply the Sixth Ward, or as part of Brooklyn Heights The current name, a revival of a name which had died out by the 1880s, was adopted in 1959."
+    },
+    {
+        "the_geom": [
+            "-74.00037274122076",
+            "40.68213188564184"
+        ],
+        "Name": "Carroll Gardens",
+        "Borough": "Brooklyn",
+        "Description": "The neighborhood was named after Charles Carroll, the only Roman Catholic signer of the Declaration of Independence, and whose name was already attached to Carroll Street and Carroll Park."
+    },
+    {
+        "the_geom": [
+            "-74.01275897473568",
+            "40.67625323025092"
+        ],
+        "Name": "Red Hook",
+        "Borough": "Brooklyn",
+        "Description": "Red Hook is the only part of New York City that has a fully frontal view of the Statue of Liberty, which was oriented to face France."
+    },
+    {
+        "the_geom": [
+            "-73.99444087145346",
+            "40.6739311431872"
+        ],
+        "Name": "Gowanus",
+        "Borough": "Brooklyn",
+        "Description": "In 1636, Gowanus Bay – named after Gauwane (Gouwane, lit. 'the sleeper'), a Canarsee Indian – was the site of the first settlement by Dutch farmers in what is now Brooklyn."
+    },
+    {
+        "the_geom": [
+            "-73.97290574369099",
+            "40.688527260189815"
+        ],
+        "Name": "Fort Greene",
+        "Borough": "Brooklyn",
+        "Description": "Fort Greene in the early 20th century became a significant cultural destination. After the original Brooklyn Academy of Music in Brooklyn Heights burned down in 1903, the current one was built in Fort Greene."
+    },
+    {
+        "the_geom": [
+            "-73.97705030183931",
+            "40.672320522682014"
+        ],
+        "Name": "Park Slope",
+        "Borough": "Brooklyn",
+        "Description": "Park Slope contains a variety of zoning districts, including manufacturing, commercial, residential, and mixed-use. Much of the neighborhood is composed of rowhouses and six-to-eight-story apartment buildings, though Fourth, Fifth and Seventh Avenues contain residential structures with commercial space on the ground floors."
+    },
+    {
+        "the_geom": [
+            "-73.87583132262635",
+            "40.6846357939163"
+        ],
+        "Name": "Cypress Hills",
+        "Borough": "Brooklyn",
+        "Description": "Cypress Hills, a subsection of East New York,[44] is bordered on the south by City Line; to the north by Cypress Hills Cemetery; to the west by Bushwick; and to the east Woodhaven and Ozone Park in Queens."
+    },
+    {
+        "the_geom": [
+            "-73.88069863917373",
+            "40.66992570084708"
+        ],
+        "Name": "East New York",
+        "Borough": "Brooklyn",
+        "Description": "East New York consists of mixed properties but primarily semi-detached homes, two-to-four family houses, and multi-unit apartment buildings, including condominiums and co-ops. The total land area is one square mile."
+    },
+    {
+        "the_geom": [
+            "-73.87936970045882",
+            "40.64758905230878"
+        ],
+        "Name": "Starrett City",
+        "Borough": "Brooklyn",
+        "Description": "Starrett City (informally and colloquially known as the Spring Creek Towers) is a housing development in the Spring Creek section of East New York, in Brooklyn, New York City. It is located on a peninsula on the north shore of Jamaica Bay, bounded by Fresh Creek to the west and Hendrix Creek to the east."
+    },
+    {
+        "the_geom": [
+            "-73.90209269778973",
+            "40.63556432797432"
+        ],
+        "Name": "Canarsie",
+        "Borough": "Brooklyn",
+        "Description": "The area near Canarsie was originally settled by the Canarse Native Americans. The community's name is adapted from a Lenape word meaning 'fenced area'. "
+    },
+    {
+        "the_geom": [
+            "-73.92911302644681",
+            "40.6304460437575"
+        ],
+        "Name": "Flatlands",
+        "Borough": "Brooklyn",
+        "Description": "Crops typically grown in the area were beans, corn, marsh hay, squash, potato bean and tobacco. Oysters and clams were also farmed and harvested from Jamaica Bay, surrounding marshes and basins."
+    },
+    {
+        "the_geom": [
+            "-73.90818571777432",
+            "40.60633642168567"
+        ],
+        "Name": "Mill Island",
+        "Borough": "Brooklyn",
+        "Description": "From the 1950s through the 1980s, the area was mainly Italian, but the predominant communities today are Russian and Israeli."
+    },
+    {
+        "the_geom": [
+            "-73.94353722891894",
+            "40.57791350308661"
+        ],
+        "Name": "Manhattan Beach",
+        "Borough": "Brooklyn",
+        "Description": "Traditionally known as an Italian and Ashkenazi Jewish neighborhood, it is also home to a sizable community of Sephardi Jews and a large Russian Jewish immigrant presence."
+    },
+    {
+        "the_geom": [
+            "-73.98868295821644",
+            "40.57429256471605"
+        ],
+        "Name": "Coney Island",
+        "Borough": "Brooklyn",
+        "Description": "Coney Island is a peninsular neighborhood and entertainment area in the southwestern section of the New York City borough of Brooklyn. The neighborhood is bounded by Brighton Beach to its east, Lower New York Bay to the south and west, and Gravesend to the north, and includes the subsections of Sea Gate to its west and Brighton Beach to its east. Coney Island was formerly the westernmost of the Outer Barrier islands on the southern shore of Long Island, but in the early 20th century it became a peninsula, connected to the rest of Long Island by land fill."
+    },
+    {
+        "the_geom": [
+            "-73.99875221443526",
+            "40.599518702822415"
+        ],
+        "Name": "Bath Beach",
+        "Borough": "Brooklyn",
+        "Description": "Bath Beach held one of Brooklyn's earliest African-American settlements. Freed slaves were given a parcel of land to settle in the mid-nineteenth century. The church that was once located in the heart of that community, Mount Zion Baptist, has moved to Bedford-Stuyvesant."
+    },
+    {
+        "the_geom": [
+            "-73.99049823044818",
+            "40.63313051275805"
+        ],
+        "Name": "Borough Park",
+        "Borough": "Brooklyn",
+        "Description": "Borough Park is home to one of the largest Orthodox Jewish communities outside Israel, with one of the largest concentrations of Jews in the United States, and Orthodox traditions rivaling many insular communities. As the average number of children in Orthodox and Haredi families is 6.72, Boro Park is experiencing a sharp growth in population. "
+    },
+    {
+        "the_geom": [
+            "-74.01931375636029",
+            "40.61921945772268"
+        ],
+        "Name": "Dyker Heights",
+        "Borough": "Brooklyn",
+        "Description": "Dyker Heights has a suburban character with detached and semi-detached one-and two-family homes, many of which have driveways and private yards, which are uncommon in parts of New York City."
+    },
+    {
+        "the_geom": [
+            "-73.93010170691203",
+            "40.59084843390208"
+        ],
+        "Name": "Gerritsen Beach",
+        "Borough": "Brooklyn",
+        "Description": "The neighborhood has a large Irish-Catholic presence in the community. A few long-standing residents of Irish descent refer to the community as being cois fharraige, which is an Irish language phrase meaning 'by the sea'. The remaining percentage of the population is predominantly of Scandinavian, Italian and German descent."
+    },
+    {
+        "the_geom": [
+            "-73.93134404108504",
+            "40.60974777989464"
+        ],
+        "Name": "Marine Park",
+        "Borough": "Brooklyn",
+        "Description": "The neighborhood also contains a public park of the same name. The park's 530 acres (2.1 km2) of grassland and salt marsh surround the westernmost inlet of Jamaica Bay.[3] Most of the park's land was donated to New York City in the 1910s and 1920s, and consists of the area between the current day Fillmore Avenue and Gerritsen Avenue and East 38th Street."
+    },
+    {
+        "the_geom": [
+            "-73.96784306216374",
+            "40.69322942188155"
+        ],
+        "Name": "Clinton Hill",
+        "Borough": "Brooklyn",
+        "Description": "The area’s European history began in the 1640s, when Dutch colonists laid tobacco plantations near Wallabout Bay. Bedford Corners, situated just southeast of Clinton Hill, was incorporated in 1663, and the settlers (both Dutch and French Huguenot) purchased surrounding lands from the native Lenape in 1670."
+    },
+    {
+        "the_geom": [
+            "-74.00787311200247",
+            "40.576375378902284"
+        ],
+        "Name": "Sea Gate",
+        "Borough": "Brooklyn",
+        "Description": "Residents refer to Sea Gate as 'the gate' and venturing into adjoining Coney Island as going 'out the gate'. There are no stores in the neighborhood. There are express buses to Manhattan, which take an average of 80 minutes. As of 2010 Sea Gate is made up of 832 single-family houses in a variety of architectural styles, including Queen Anne Style and Mediterranean."
+    },
+    {
+        "the_geom": [
+            "-73.98346337431106",
+            "40.69084402109806"
+        ],
+        "Name": "Downtown",
+        "Borough": "Brooklyn",
+        "Description": "Downtown Brooklyn is the third largest central business district in New York City, United States (following Midtown Manhattan and Lower Manhattan), and is located in the northwestern section of the borough of Brooklyn. Since the rezoning of Downtown Brooklyn in 2004, the area has been undergoing a transformation, with $9 billion of private investment and $300 million in public improvements underway. The area is a growing hub for education. In 2017, New York University announced that it would invest over $500 million to renovate and expand the NYU Tandon School of Engineering and its surrounding Downtown Brooklyn-based campus."
+    },
+    {
+        "the_geom": [
+            "-73.98357724689187",
+            "40.687241380657376"
+        ],
+        "Name": "Boerum Hill",
+        "Borough": "Brooklyn",
+        "Description": "Boerum Hill is named for the colonial farm of the Boerum family, which occupied most of the area during early Dutch settlement. According to the 1790 census, John Boerum's family owned at least two enslaved people. Most of the housing in Boerum Hill consists of three-story row houses built between 1840 and 1870. Despite the 'hill' in the name, the neighborhood is relatively flat"
+    },
+    {
+        "the_geom": [
+            "-73.9548986707772",
+            "40.65842001746986"
+        ],
+        "Name": "Prospect Lefferts Gardens",
+        "Borough": "Brooklyn",
+        "Description": "Prospect Lefferts Gardens is a combination of the names of three nearby locations: Prospect Park, Lefferts Manor, and the Brooklyn Botanic Garden.[9][10] Lefferts Manor is named for the Dutch colonial family who built it; they were also one of the largest owners of enslaved persons in Brooklyn. The area was originally settled by a Dutch family in 1660, at which time it was within the Town of Flatbush. In 1893 the Lefferts estate was divided by James Lefferts into 600 building lots, now known as Lefferts Manor, and sold to developers."
+    },
+    {
+        "the_geom": [
+            "-73.91306831787404",
+            "40.6784025547954"
+        ],
+        "Name": "Ocean Hill",
+        "Borough": "Brooklyn",
+        "Description": "Ocean Hill was named because it was slightly hilly. Ocean Hill was subdivided from the larger community of Stuyvesant Heights. From the beginning of the 20th century to the 1960s Ocean Hill was an Italian enclave. By the late 1960s Ocean Hill and Bedford-Stuyvesant proper together formed the largest African American community in the United States."
+    },
+    {
+        "the_geom": [
+            "-73.86797598081343",
+            "40.678569957274824"
+        ],
+        "Name": "City Line",
+        "Borough": "Brooklyn",
+        "Description": "The neighborhood is named “City Line” for its location in the former City of Brooklyn near the border with Queens County before Brooklyn and parts of Queens County were consolidated into New York City in 1898). City Line is one of the most ethnically diverse neighborhoods in Brooklyn. Many Italians and Irish originally lived in the area, which today is home to immigrants from Bangladesh, the Dominican Republic, Guyana, and Puerto Rico."
+    },
+    {
+        "the_geom": [
+            "-73.89855633630324",
+            "40.615149550453125"
+        ],
+        "Name": "Bergen Beach",
+        "Borough": "Brooklyn",
+        "Description": "Bergen Beach was originally an island. The Canarsie Indians who occupied the area referred to it as Winnipague. The island was renamed Bergen Island for early settler Hans Hansen Bergen. From 1896 to 1919, Percy G. Williams and Thomas Adams operated an amusement park in the area. Bergen Beach was connected to the rest of Brooklyn via landfill by 1918, although development did not come for many years. In the 1960s, a housing development called 'Georgetowne' was proposed for Bergen Beach, but it was never built due to opposition from local residents. As a result, much of Bergen Beach was not fully developed until the 1990s."
+    },
+    {
+        "the_geom": [
+            "-73.95759523489846",
+            "40.62559589869847"
+        ],
+        "Name": "Midwood",
+        "Borough": "Brooklyn",
+        "Description": "The name, Midwood, derives from the Middle Dutch word, Midwout (middle woods; Modern Dutch: Midwoud), the name the settlers of New Netherland called the area of dense woodland midway between the towns of Boswyck (Bushwick) and Breuckelen (Brooklyn). Settlement was begun by the Dutch in 1652; they later gave way to the English, who conquered it in 1664, but the area remained rural and undeveloped for the most part until its annexation to the City of Brooklyn in the 1890s. It became more developed in the 1920s when large middle class housing tracts and apartment buildings were built."
+    },
+    {
+        "the_geom": [
+            "-73.96261316716055",
+            "40.64700860318523"
+        ],
+        "Name": "Prospect Park South",
+        "Borough": "Brooklyn",
+        "Description": "Prospect Park South is a small neighborhood in Flatbush, Brooklyn, New York City, located south of Prospect Park. It is included within the Prospect Park South Historic District, which was designated by the New York City Landmarks Preservation Commission in 1979[2] and listed on the National Register of Historic Places in 1983.[1] The historic district is bounded by Church Avenue to the north, the BMT Brighton Line (B and ​Q trains) of the New York City Subway to the east, Beverley Road to the south, and between Stratford Road and Coney Island Avenue to the west."
+    },
+    {
+        "the_geom": [
+            "-73.91607483951331",
+            "40.623845244784235"
+        ],
+        "Name": "Georgetown",
+        "Borough": "Brooklyn",
+        "Description": "Geographically, Georgetown forms somewhat of a triangle bounded by Ralph, Bergen, and Veterans avenues, with its eponymous shopping center on Ralph Avenue anchored by a beloved International House of Pancakes."
+    },
+    {
+        "the_geom": [
+            "-73.86998779106547",
+            "40.65713927658277"
+        ],
+        "Name": "Spring Creek",
+        "Borough": "Brooklyn",
+        "Description": "For most of its history, the neighborhood of Spring Creek was considered the place where 'the city came to an end', consisting of undeveloped marshland used as illegal dumping grounds, and hosting several large landfills and an incinerator during the 20th century. Much of the area was designated as the Fresh Creek Urban Renewal Area in 1967."
+    },
+    {
+        "the_geom": [
+            "-73.93885815269203",
+            "40.70849241041552"
+        ],
+        "Name": "East Williamsburg",
+        "Borough": "Brooklyn",
+        "Description": "The first wave of Italian immigration to East Williamsburg occurred in the second half of the 19th century. By the late 1880s, the neighborhood along Graham Avenue was inhabited by many Italian immigrants,[19] as evidenced by The Our Lady of the Snow Society at 410 Graham Avenue, established in 1888.[19] Italians also attended St. Cecilia's Catholic Church at 84 Herbert Street, which was established in 1871 and run mainly by Irish. Other Italian societies in the neighborhood include Sabino Society on Withers St., the San Cono Society on Ainslie St. A second wave of Italian immigration occurred from World War II until the 1970s. While the neighborhood has changed significantly, the established Italian community still thrives along the north end of Graham avenue, also referred to as 'Via Vespucci'. The neighborhood also was home to The Motion Lounge, the former nightclub at 420 Graham Avenue owned by Bonanno crime family caporegime Dominick Napolitano."
+    },
+    {
+        "the_geom": [
+            "-73.95880857587589",
+            "40.714822906532056"
+        ],
+        "Name": "North Side",
+        "Borough": "Brooklyn",
+        "Description": "The North Side, above Grand Street, which separates the North Side from the South Side, is somewhat more expensive due to its proximity to the New York City Subway (specifically, the L train and G train on the BMT Canarsie Line and IND Crosstown Line, respectively)."
+    },
+    {
+        "the_geom": [
+            "-73.95800095153338",
+            "40.710861472650684"
+        ],
+        "Name": "South Side",
+        "Borough": "Brooklyn",
+        "Description": "Williamsburg Collegiate Charter School, a consistently top-performing charter school[168] in New York City, is located on the South side. Williamsburg Northside Schools are three Reggio Emilia-inspired schools that have three distinct programs within three locations: Infant and Toddler Center, Williamsburg Northside Preschool, and Williamsburg Northside Lower School."
+    },
+    {
+        "the_geom": [
+            "-73.97164435527614",
+            "40.698790872180545"
+        ],
+        "Name": "Navy Yard",
+        "Borough": "Brooklyn",
+        "Description": "The Brooklyn Navy Yard was established in 1801. From the early 1810s through the 1960s, it was an active shipyard for the United States Navy, and was also known as the United States Naval Shipyard, Brooklyn and New York Naval Shipyard at various points in its history. The Brooklyn Navy Yard produced wooden ships for the U.S. Navy through the 1870s, and steel ships after the American Civil War in the 1860s."
+    },
+    {
+        "the_geom": [
+            "-73.96836678035548",
+            "40.61305976667946"
+        ],
+        "Name": "Ocean Parkway",
+        "Borough": "Brooklyn",
+        "Description": "Much of Ocean Parkway is zoned for mid-to-high rise residential structures.[21] Around 1900, homes were constructed along the perimeter of the parkway, and during World War I, many mansions were built. Buyers came to Ocean Parkway from Bedford-Stuyvesant, Brooklyn Heights, and Bushwick. In the 1920s, apartment complexes and one- and two-family homes were constructed; the northernmost portion of the parkway became the site of luxurious, elevator-equipped apartment buildings. Apartments began to replace older homes in the vicinity of the parkway after World War II."
+    },
+    {
+        "the_geom": [
+            "-74.0319791453799",
+            "40.6147681269423"
+        ],
+        "Name": "Fort Hamilton",
+        "Borough": "Brooklyn",
+        "Description": "Fort Hamilton is the only active-duty Department of Defense military post in New York City. Fort Hamilton was once a sister fortification to Fort Wadsworth on Staten Island."
+    },
+    {
+        "the_geom": [
+            "-73.99427936255985",
+            "40.715618422314364"
+        ],
+        "Name": "Chinatown",
+        "Borough": "Manhattan",
+        "Description": "Manhattan's Chinatown is a neighborhood in Lower Manhattan, New York City, bordering the Lower East Side to its east, Little Italy to its north, Civic Center to its south, and Tribeca to its west. Historically, Chinatown was primarily populated by Cantonese speakers. However, in the 1980s and 1990s, large numbers of Fuzhounese-speaking immigrants also arrived and formed a sub-neighborhood annexed to the eastern portion of Chinatown east of The Bowery."
+    },
+    {
+        "the_geom": [
+            "-73.93690027985242",
+            "40.85190252555309"
+        ],
+        "Name": "Washington Heights",
+        "Borough": "Manhattan",
+        "Description": "Washington Heights is named for Fort Washington, a fortification constructed at the highest natural point on Manhattan Island by Continental Army troops to defend the area from the British forces during the American Revolutionary War. While some Dominican immigrants had been arriving in Washington Heights throughout the 1950s and 60s, the pace increased drastically during the regime of Joaquín Balaguer, who took power in 1966 following the Dominican Civil War."
+    },
+    {
+        "the_geom": [
+            "-73.92121042203905",
+            "40.86768396449919"
+        ],
+        "Name": "Inwood",
+        "Borough": "Manhattan",
+        "Description": "The residents of Inwood were substantially of Irish descent for much of the 20th century. The neighborhood exhibited a strong Irish identity with many Irish shops, pubs, and even a Gaelic football field in Inwood Hill Park. The second-largest group during this time was Jewish, an extension of the large Jewish population of Washington Heights. However, in the 1960s through the 1980s, many Irish and Jewish residents moved out to the outer boroughs (for example, Riverdale and Spuyten Duyvil in the Bronx) and the suburbs, in a pattern consistent with overall trends in the city at that time. During the same period, there was a rise in the number of Dominican immigrants to the area."
+    },
+    {
+        "the_geom": [
+            "-73.94968791883373",
+            "40.82360428481197"
+        ],
+        "Name": "Hamilton Heights",
+        "Borough": "Manhattan",
+        "Description": "Hamilton Heights is a neighborhood in the northern part of Manhattan in New York City. It is the northernmost part of the West Harlem area, along with Manhattanville and Morningside Heights to its south, and it contains the sub-neighborhood and historic district of Sugar Hill. Washington Heights lies to Hamilton Heights' north, and to its east is Central Harlem."
+    },
+    {
+        "the_geom": [
+            "-73.95738539351888",
+            "40.81693442949784"
+        ],
+        "Name": "Manhattanville",
+        "Borough": "Manhattan",
+        "Description": "Throughout the 19th century, Manhattanville bustled around a wharf active with ferry and daily river conveyances. It was the first station on the Hudson River Railroad running north from the city, and the hub of daily stage coach, omnibus and streetcar lines. Situated near Bloomingdale Road, its hotels, houses of entertainment and post office made it an alluring destination of suburban retreat from the city, yet its direct proximity to the Hudson River also made it an invaluable industrial entry point for construction materials and other freight bound for Upper Manhattan. With the construction of road and railway viaducts over the valley in which the town sat, Manhattanville, increasingly absorbed into the growing city, became a marginalized industrial area."
+    },
+    {
+        "the_geom": [
+            "-73.94321112603912",
+            "40.81597606742418"
+        ],
+        "Name": "Central Harlem",
+        "Borough": "Manhattan",
+        "Description": "In 1910, Central Harlem population was about 10% black people. By 1930, it had reached 70%. Starting around the time of the end of World War I, Harlem became associated with the New Negro movement, and then the artistic outpouring known as the Harlem Renaissance, which extended to poetry, novels, theater, and the visual arts. So many black people came that it threatened the very existence of some of the leading industries of Georgia, Florida, Tennessee and Alabama."
+    },
+    {
+        "the_geom": [
+            "-73.94418223148531",
+            "40.79224946663037"
+        ],
+        "Name": "East Harlem",
+        "Borough": "Manhattan",
+        "Description": "East Harlem, also known as Spanish Harlem or El Barrio, is one of the largest predominantly Latino communities in New York City, mostly made up of Puerto Ricans, as well as sizeable numbers of Dominican, Cuban and Mexican immigrants. The community is notable for its contributions to Latin freestyle and salsa music. East Harlem also includes the area formerly known as Italian Harlem, in which the remnants of a once predominantly Italian community remain."
+    },
+    {
+        "the_geom": [
+            "-73.96050763135007",
+            "40.77563857330185"
+        ],
+        "Name": "Upper East Side",
+        "Borough": "Manhattan",
+        "Description": "The Upper East Side, sometimes abbreviated UES, is host to some of the most famous museums in the world. The string of museums along Fifth Avenue fronting Central Park has been dubbed 'Museum Mile', running between 82nd and 105th Streets."
+    },
+    {
+        "the_geom": [
+            "-73.94711784471833",
+            "40.77592984988492"
+        ],
+        "Name": "Yorkville",
+        "Borough": "Manhattan",
+        "Description": "For much of the 19th and into the 20th centuries, Yorkville was a mostly German enclave of middle- to working-class families. Over time, many people of Czech, Slovak, Irish, Polish, Hungarian, and Lebanese descent moved in. The neighborhood became more affluent. From 1880, Yorkville became a destination for German-born immigrants. However, by the 1900s, many German residents moved to Yorkville and other neighborhoods from 'Kleindeutschland' (Little Germany) on the Lower East Side after the General Slocum disaster on June 15, 1904. The ship caught fire in the East River just off the shores of Yorkville, leading family members to move closer to the site of the incident. Most of the passengers on the ship were German."
+    },
+    {
+        "the_geom": [
+            "-73.95885968813766",
+            "40.76811265828737"
+        ],
+        "Name": "Lenox Hill",
+        "Borough": "Manhattan",
+        "Description": "The neighborhood is named for the hill that 'stood at what became 70th Street and Park Avenue.' The name 'Lenox' is that of the immigrant Scottish merchant Robert Lenox (1759-1839),[11] who owned about 30 acres (120,000 m2) of land 'at the five-mile (8 km) stone', reaching from Fifth to Fourth (now Park) Avenues and from East 74th to 68th Streets."
+    },
+    {
+        "the_geom": [
+            "-73.9494705736962",
+            "40.762403730702246"
+        ],
+        "Name": "Roosevelt Island",
+        "Borough": "Manhattan",
+        "Description": "Although Roosevelt Island is located directly under the Queensboro Bridge, it is no longer directly accessible from the bridge itself. A trolley used to connect passengers from Queens and Manhattan to a stop in the middle of the bridge, where passengers took an elevator down to the island. The trolley operated from the bridge's opening in 1909 until April 7, 1957. Between 1930 and 1955, the only vehicular access to the island was provided by an elevator system in the Elevator Storehouse that transported cars and commuters between the bridge and the island. The elevator was closed to the public after the construction of the Roosevelt Island Bridge between the island and Astoria in Queens in 1955; the elevator was demolished in 1970, but a similar elevator ran from the Queensboro Bridge to the island as late as 1973."
+    },
+    {
+        "the_geom": [
+            "-73.9770592363061",
+            "40.7876579985349"
+        ],
+        "Name": "Upper West Side",
+        "Borough": "Manhattan",
+        "Description": "The apartment buildings along Central Park West, facing the park, are some of the city's most opulent. The Dakota at 72nd St. has been home to numerous celebrities including John Lennon, Leonard Bernstein and Lauren Bacall. Other buildings on CPW include the Art Deco Century Apartments (Irwin Chanin, 1931), and The Majestic, also by Chanin. The San Remo, The El Dorado and The Beresford were all designed by Emery Roth, as was 41 West 96th Street (completed in 1926). The Alden, a sister hotel to The Beresford, was also designed by Roth. His first commission, the Belle Époque Belleclaire, is on Broadway, while the moderne Normandie holds forth on Riverside at 86th Street. Along Broadway are several Beaux-Arts apartment houses: The Belnord (1908) – the fronting block of which was co-named in honor of longtime resident I.B. Singer, plus The Apthorp (1908), The Ansonia (1902), The Dorilton and the Manhasset. All are individually designated New York City landmarks."
+    },
+    {
+        "the_geom": [
+            "-73.9853377700127",
+            "40.773528889421705"
+        ],
+        "Name": "Lincoln Square",
+        "Borough": "Manhattan",
+        "Description": "During the 1950s and 1960s, a consortium of civic leaders and others led by John D. Rockefeller III built the Lincoln Center as part of the 'Lincoln Square Renewal Project' during urban planner Robert Moses's program of urban renewals.[7] Respected architects were contracted to design the major buildings on the site, and construction started in 1959.[8] Over the next thirty years the previously blighted area around Lincoln Center became a new cultural hub. Over 7,700 residents were displaced during the redevelopment project."
+    },
+    {
+        "the_geom": [
+            "-73.99640768221386",
+            "40.758333686906404"
+        ],
+        "Name": "Clinton",
+        "Borough": "Manhattan",
+        "Description": "Hell's Kitchen, also known as Clinton, is a neighborhood on the West Side of Midtown Manhattan in New York City. Until the 1970s, Hell's Kitchen was a bastion of poor and working-class Irish Americans. Though its gritty reputation had long held real-estate prices below those of most other areas of Manhattan, by 1969, the City Planning Commission's Plan for New York City reported that development pressures related to its Midtown location were driving people of modest means from the area."
+    },
+    {
+        "the_geom": [
+            "-73.98166882730311",
+            "40.75469110270627"
+        ],
+        "Name": "Midtown",
+        "Borough": "Manhattan",
+        "Description": "Midtown Manhattan is the central portion of the New York City borough of Manhattan. Midtown is home to some of the city's most prominent buildings, including the Empire State Building, the Chrysler Building, the Hudson Yards Redevelopment Project, the headquarters of the United Nations, Grand Central Terminal, and Rockefeller Center, as well as tourist destinations such as Broadway and Times Square. Midtown Manhattan is the largest central business district in the world and ranks among the most expensive pieces of real estate; Fifth Avenue in Midtown Manhattan commands the world's highest retail rents."
+    },
+    {
+        "the_geom": [
+            "-73.97833207924134",
+            "40.74830307725222"
+        ],
+        "Name": "Murray Hill",
+        "Borough": "Manhattan",
+        "Description": "Murray Hill derives its name from Robert Murray (1721–1786), an Irish-born merchant, whose family had a large estate in what is now the modern-day neighborhood.[4][5] The modern neighborhood was once an abrupt, steep-sided mound of glacial till typical of Manhattan Island's still-unmodified post-glacial terrain."
+    },
+    {
+        "the_geom": [
+            "-74.0031163347282",
+            "40.74403470674802"
+        ],
+        "Name": "Chelsea",
+        "Borough": "Manhattan",
+        "Description": "The neighborhood is primarily residential, with a mix of tenements, apartment blocks, city housing projects, townhouses, and renovated rowhouses, but its many retail businesses reflect the ethnic and social diversity of the population. The area has a large LGBTQ population. Chelsea is also known as one of the centers of the city's art world, with over 200 galleries in the neighborhood. As of 2015, due to the area's gentrification, there is a widening income gap between the wealthy living in luxury buildings and the poor living in housing projects, who are, at times, across the street from each other."
+    },
+    {
+        "the_geom": [
+            "-73.99991402945909",
+            "40.72693288536132"
+        ],
+        "Name": "Greenwich Village",
+        "Borough": "Manhattan",
+        "Description":"Its name comes from Groenwijck, Dutch for 'Green District'. In the 20th century, Greenwich Village was known as an artists' haven, the bohemian capital, the cradle of the modern LGBT movement, and the East Coast birthplace of both the Beat and '60s counterculture movements. Greenwich Village contains Washington Square Park, as well as two of New York City's private colleges, New York University (NYU) and The New School."
+    },
+    {
+        "the_geom": [
+            "-73.98222616506425",
+            "40.72784677727029"
+        ],
+        "Name": "East Village",
+        "Borough": "Manhattan",
+        "Description": "In the mid-20th century, Ukrainians created a Ukrainian enclave in the neighborhood, centered around Second Avenue and 6th and 7th Streets.[66][67] The Polish enclave in the East Village persisted as well. Numerous other immigrant groups had moved out, and their former churches were sold and became Orthodox cathedrals. Latin American immigrants started to move to the East Side, settling in the eastern part of the neighborhood and creating an enclave that later came to be known as Loisaida."
+    },
+    {
+        "the_geom": [
+            "-73.98089031999298",
+            "40.71780674892769"
+        ],
+        "Name": "Lower East Side",
+        "Borough": "Manhattan",
+        "Description": "The Lower East Side, sometimes abbreviated as LES and sometimes referred to as Loisaida, is a neighborhood in the southeastern part of the New York City borough of Manhattan, roughly between the Bowery and the East River from Canal to Houston streets. Traditionally an immigrant, working-class neighborhood, it began rapid gentrification in the mid-2000s, prompting the National Trust for Historic Preservation to place the neighborhood on their list of America's Most Endangered Places."
+    },
+    {
+        "the_geom": [
+            "-74.01068328559094",
+            "40.72152196744325"
+        ],
+        "Name": "Tribeca",
+        "Borough": "Manhattan",
+        "Description": "Tribeca, originally written as TriBeCa, is a neighborhood in Lower Manhattan in New York City. Its name is a syllabic abbreviation of 'Triangle Below Canal Street'. The neighborhood began as farmland, then was a residential neighborhood in the early 19th century, before becoming a mercantile area centered on produce, dry goods, and textiles, and then transitioning to artists and then actors, models, entrepreneurs and other celebrities. The neighborhood is home to the Tribeca Film Festival, which was created in response to the September 11 attacks, to reinvigorate the neighborhood and downtown after the destruction caused by the terrorist attacks."
+    },
+    {
+        "the_geom": [
+            "-73.9973046720808",
+            "40.71932379395911"
+        ],
+        "Name": "Little Italy",
+        "Borough": "Manhattan",
+        "Description": "In 1910 Little Italy had almost 10,000 Italians; that was the peak of the community's Italian population. At the turn of the 20th century, over 90% of the residents of the Fourteenth Ward were of Italian birth or origins.[4] Tonelli said that it meant 'that residents began moving out to more spacious digs almost as soon as they arrived.' Such a vastly growing community impacted the 'U.S. labor movement in the 20th century' by making up much of the labor population in the garment industry."
+    },
+    {
+        "the_geom": [
+            "-74.00065666959766",
+            "40.72218384131798"
+        ],
+        "Name": "Soho",
+        "Borough": "Manhattan",
+        "Description": "The name 'SoHo; derives from the area being 'South of Houston Street', and was coined in 1962 by Chester Rapkin, an urban planner and author of The South Houston Industrial Area study. Since the 20th century it has been the location of many artists' lofts and art galleries, and has also been known for its variety of shops ranging from trendy upscale boutiques to national and international chain store outlets. The area's history is an archetypal example of inner-city regeneration and gentrification, encompassing socioeconomic, cultural, political, and architectural developments."
+    },
+    {
+        "the_geom": [
+            "-74.00617998126819",
+            "40.734433935724375"
+        ],
+        "Name": "West Village",
+        "Borough": "Manhattan",
+        "Description": "The West Village is a neighborhood in the western section of the larger Greenwich Village neighborhood. Residential property sale prices in West Village are among the most expensive in the United States. The West Village historically was known as an important landmark on the map of American bohemian culture in the early and mid-twentieth century. The neighborhood was known for its colorful, artistic residents and the alternative culture they propagated. Due in part to the progressive attitudes of many of its residents, the Village was a focal point of new movements and ideas, whether political, artistic, or cultural. This tradition as an enclave of avant-garde and alternative culture was established during the 19th century and into the 20th century, when small presses, art galleries, and experimental theater thrived."
+    },
+    {
+        "the_geom": [
+            "-73.96428617740662",
+            "40.7973070417029"
+        ],
+        "Name": "Manhattan Valley",
+        "Borough": "Manhattan",
+        "Description":"By the 1950s and 1960s, the area went into decline, in line with a trend of general urban deterioration in Manhattan.[17] As middle-class residents left for the suburbs, buildings were allowed to fall into disrepair and were divided into small units for new low-rent tenants."
+    },
+    {
+        "the_geom": [
+            "-73.96389627905339",
+            "40.80799973816586"
+        ],
+        "Name": "Morningside Heights",
+        "Borough": "Manhattan",
+        "Description": "A large portion of Morningside Heights is part of the campus of Columbia University, a private Ivy League university. Morningside Heights contains numerous other educational institutions such as Teachers College, Barnard College, the Manhattan School of Music, Bank Street College of Education, Union Theological Seminary, and the Jewish Theological Seminary of America."
+    },
+    {
+        "the_geom": [
+            "-73.98137594833548",
+            "40.737209832715045"
+        ],
+        "Name": "Gramercy",
+        "Borough": "Manhattan",
+        "Description": "The area received its name as an anglicization of 'Crommessie', which is derived from the Dutch Krom Moerasje, meaning 'little crooked swamp', or Krom Mesje, meaning 'little crooked knife', describing the shape of the swamp, brook and hill on the site"
+    },
+    {
+        "the_geom": [
+            "-74.01686930508625",
+            "40.71193198394569"
+        ],
+        "Name": "Battery Park City",
+        "Borough": "Manhattan",
+        "Description":  "Battery Park City is a mainly residential 92-acre planned community and neighborhood on the west side of the southern tip of the island of Manhattan in New York City. It is bounded by the Hudson River on the west, the Hudson River shoreline on the north and south, and the West Side Highway on the east. The neighborhood is named for The Battery, formerly known as Battery Park, located directly to the south."
+    },
+    {
+        "the_geom": [
+            "-74.01066544521277",
+            "40.70710710727052"
+        ],
+        "Name": "Financial District",
+        "Borough": "Manhattan",
+        "Description":  "The City of New York was created in the Financial District in 1624, and the neighborhood roughly overlaps with the boundaries of the New Amsterdam settlement in the late 17th century. The district comprises the offices and headquarters of many of the city's major financial institutions, including the New York Stock Exchange and the Federal Reserve Bank of New York. Anchored on Wall Street in the Financial District, New York City has been called both the most financially powerful city and the leading financial center of the world, and the New York Stock Exchange is the world's largest stock exchange by total market capitalization."
+    },
+    {
+        "the_geom": [
+            "-73.91565374304241",
+            "40.768508593354966"
+        ],
+        "Name": "Astoria",
+        "Borough": "Queens",
+        "Description": "Astoria was first settled by the Dutch, English, and Germans in the 17th century. Many Irish settled in the area during the waves of Irish immigration into New York City during the 19th and early 20th centuries. Italians were the next significant immigrants in Astoria, and numerous Italian restaurants, delis, bakeries, and pizza shops are found throughout Astoria, particularly in the Ditmars Boulevard area. By the early 21st century, Astoria was one of the most ethnically diverse neighborhoods in Queens, with people from around 100 countries residing there as of 2015."
+    },
+    {
+        "the_geom": [
+            "-73.90184166838291",
+            "40.746349088602265"
+        ],
+        "Name": "Woodside",
+        "Borough": "Queens",
+        "Description": "Reflecting its longtime diverse foods and drink, the neighborhood is filled with many cultural restaurants and pubs. It is also home to some of the city's most popular Thai, Filipino, and South American eateries."
+    },
+    {
+        "the_geom": [
+            "-73.88282109164372",
+            "40.751981380073715"
+        ],
+        "Name": "Jackson Heights",
+        "Borough": "Queens",
+        "Description": "Jackson Heights retains much of its residential character in the modern day. It also has numerous commercial establishments clustered around 37th Avenue, as well as along several side streets served by subway stations. The main retail thoroughfare is 37th Avenue from 72nd Street to Junction Boulevard, with more retail on 73rd, 74th, and 82nd streets between 37th and Roosevelt avenues. Stores and restaurants on and near 74th Street tend to cater to the large population from the Indian subcontinent in the neighborhood, with sari and jewelry stores, Indian and Bengali music and movie retailers and many restaurants."
+    },
+    {
+        "the_geom": [
+            "-73.88165622288396",
+            "40.744048505122066"
+        ],
+        "Name": "Elmhurst",
+        "Borough": "Queens",
+        "Description":  "Elmhurst contains a variety of zoning districts, including manufacturing, commercial, residential, and mixed-use. Much of the neighborhood is composed of detached or multi-family houses, though there are also rowhouse districts, apartment buildings of up to six or seven stories, and large developments."
+    },
+    {
+        "the_geom": [
+            "-73.83813764600289",
+            "40.6542252773849"
+        ],
+        "Name": "Howard Beach",
+        "Borough": "Queens",
+        "Description": "Howard Beach was established in 1897 by William J. Howard, a Brooklyn glove manufacturer who operated a 150-acre (0.61 km²) goat farm on meadow land near Aqueduct Racetrack as a source of skin for kid gloves. In 1897, he bought more land and filled it in and the following year, built 18 cottages and opened a hotel near the water, which he operated until it was destroyed by fire in October 1907. He gradually bought more land and formed the Howard Estates Development Company in 1909. He dredged and filled the land until he was able to accumulate 500 acres (2 km²) by 1914. He laid out several streets, water mains and gas mains, and built 35 houses that were priced in the $2,500–$5,000 range."
+    },
+    {
+        "the_geom": [
+            "-73.85682497345266",
+            "40.7423817501567"
+        ],
+        "Name": "South Corona",
+        "Borough": "Queens",
+        "Description": "Corona has a multicultural population with a Latino majority, and is the site of historic African American and Italian American communities. After World War II, the majority of the neighborhood's residents were mostly Italian, German, Irish and of other European ancestries. Corona also has a significant Chinese population."
+    },
+    {
+        "the_geom": [
+            "-73.8444750078899",
+            "40.725263782165065"
+        ],
+        "Name": "Forest Hills",
+        "Borough": "Queens",
+        "Description": "The southern part of Forest Hills contains a particularly diverse mixture of upscale housing, ranging from single-family houses, attached townhouses, and both low-rise and high-rise apartment buildings. South of the Long Island Rail Road, the Forest Hills Gardens area is a private community that features some of the most expensive residential properties in Queens County"
+    },
+    {
+        "the_geom": [
+            "-73.8298190582571",
+            "40.705179035414844"
+        ],
+        "Name": "Kew Gardens",
+        "Borough": "Queens",
+        "Description": "Kew Gardens was one of seven planned garden communities built in Queens from the late 19th century to 1950. Much of the area was acquired in 1868 by Englishman Albon P. Man, who developed the neighborhood of Hollis Hill to the south, chiefly along Jamaica Avenue, while leaving the hilly land to the north undeveloped."
+    },
+    {
+        "the_geom": [
+            "-73.83183321446894",
+            "40.69794731471767"
+        ],
+        "Name": "Richmond Hill",
+        "Borough": "Queens",
+        "Description": "Originally, many European families (Italian, Dutch, British, Irish, Scots, Danish, and German) lived in Richmond Hill. In the 1970s, the neighborhood was predominantly Hispanic. Today, the south side of Richmond Hill consists mostly of South Asian Americans (Indians, Pakistanis, and Bangladeshis) and Indo-Caribbean Americans (Trinidadians, Guyanese, Surinamese, and Jamaicans), who have steadily emigrated to the United States since the 1960s.[18][36] Richmond Hill also has the largest Sikh population in the city, and 101st Avenue has evolved into Little Punjab, or Punjab Avenue, has emerged in Richmond Hill, Queens."
+    },
+    {
+        "the_geom": [
+            "-73.82936758711861",
+            "40.76116362081876"
+        ],
+        "Name": "Downtown Flushing",
+        "Borough": "Queens",
+        "Description":  "In the 21st century, Flushing has cemented its status as an international 'melting pot', predominantly attracting immigrants from Asia, particularly from throughout the various provinces of China, but including newcomers from all over the world. Flushing Chinatown is centered around Main Street and the area to its west, most prominently along Roosevelt Avenue, which have become the primary nexus of Flushing Chinatown. However, Chinatown continues to expand southeastward along Kissena Boulevard and northward beyond Northern Boulevard. The Flushing Chinatown houses over 30,000 individuals born in China alone, the largest Chinatown by this metric outside Asia and one of the largest and fastest-growing Chinatowns in the world. In January 2019, the New York Post named Flushing as New York City's 'most dynamic outer-borough neighborhood.'"
+    },
+    {
+        "the_geom": [
+            "-73.93920223915512",
+            "40.75021734610532"
+        ],
+        "Name": "Long Island City",
+        "Borough": "Queens",
+        "Description": "In 2001, the neighborhood was rezoned from an industrial neighborhood to a residential neighborhood, and the area underwent gentrification, with developments such as Hunter's Point South being built in the area.[28] Since then, there has been substantial commercial and residential growth in Long Island City, with 41 new residential apartment buildings being built just between 2010 and 2017."
+    },
+    {
+        "the_geom": [
+            "-73.92691617561584",
+            "40.74017628351928"
+        ],
+        "Name": "Sunnyside",
+        "Borough": "Queens",
+        "Description":"The name 'Sunnyside' originates with the Bragaw family, French Huguenots who had purchased the land in 1713 and named their estate 'Sunnyside Hill'. Sunnyside was a rural hamlet mostly consisting of small farms and marshland. It was incorporated into Long Island City in 1870, and developed into a bedroom community after the Queensboro Bridge was completed in 1909. A large portion of the neighborhood is six-story apartment buildings constructed during the 1920s and 1930s."
+    },
+    {
+        "the_geom": [
+            "-73.86704147658779",
+            "40.764073238830946"
+        ],
+        "Name": "East Elmhurst",
+        "Borough": "Queens",
+        "Description": "East Elmhurst is a residential neighborhood in the northwest section of the New York City borough of Queens. It is bounded to the south by Jackson Heights and Corona, to the north and east by Bowery Bay, and to the west by Woodside and Ditmars Steinway. The area includes LaGuardia Airport, located on the shore of Flushing Bay, and Astoria Heights."
+    },
+    {
+        "the_geom": [
+            "-73.89621713626867",
+            "40.72542737409365"
+        ],
+        "Name": "Maspeth",
+        "Borough": "Queens",
+        "Description": "The name 'Maspeth' is derived from the name of Mespeatches Indians, one of the 13 main Indian tribes that inhabited Long Island. It is translated to mean 'at the bad waterplace' relating to the many stagnant swamps that existed in the area. The area known today as Maspeth was chartered by New Netherlanders and British settlers in the early 17th century. "
+    },
+    {
+        "the_geom": [
+            "-73.90143517559596",
+            "40.70832315613862"
+        ],
+        "Name": "Ridgewood",
+        "Borough": "Queens",
+        "Description": "Ridgewood was among New York City's most quickly-developing neighborhoods between at least 1906 and 1911. Much of the new housing was originally settled by Germans, who had mostly moved from other neighborhoods such as Williamsburg. To the German newcomers, the modern and more expansive houses in Ridgewood provided an improvement over the cramped housing stock in their former neighborhoods. A 1913 Real Estate Record article stated that, for several years, Germans had been moving to Ridgewood from the city's other boroughs."
+    },
+    {
+        "the_geom": [
+            "-73.87074167435614",
+            "40.702762429678415"
+        ],
+        "Name": "Glendale",
+        "Borough": "Queens",
+        "Description": "Glendale was built on a swampy area previously called Fresh Pond. The neighborhood was later developed into an industrial area, though it is now a more residential neighborhood. Glendale's land area is long on its east-west axis and narrow on its north-south axis. The area is surrounded mainly by cemeteries, although the neighborhood also contains several large parks, including part of Forest Park."
+    },
+    {
+        "the_geom": [
+            "-73.85782686905377",
+            "40.72897409480739"
+        ],
+        "Name": "Rego Park",
+        "Borough": "Queens",
+        "Description": "Rego Park has long had a significant Jewish population, most of which have Georgian and Russian Jewish ancestors, with a number of synagogues and kosher restaurants. Many Holocaust survivors settled in Rego Park after 1945. In the 1990s, Jewish immigrants from the former Soviet Union, especially from Central Asia, moved in. Most of the residents are Bukharan Jewish, and the effect of life in the Soviet Union on the population has led Rego Park to have a Russian feel with many signs in Russian Cyrillic. Most of the Bukharan Jewish immigrants in the neighborhood come from Uzbekistan and Tajikistan, and there is also Uzbek and Tajik cuisine in many Rego Park restaurants."
+    },
+    {
+        "the_geom": [
+            "-73.85811046554328",
+            "40.689886879157925"
+        ],
+        "Name": "Woodhaven",
+        "Borough": "Queens",
+        "Description": "Woodhaven, once known as Woodville, has one of the greatest tree populations in the borough and is known for its proximity to the hiking trails of Forest Park. Woodhaven contains a mixture of urban and suburban land uses, with both low-density residential and commercial sections.[5][6] It retains the small-town feel of bygone days and is home to people of many different ethnicities."
+    },
+    {
+        "the_geom": [
+            "-73.84320266173454",
+            "40.68070846826546"
+        ],
+        "Name": "Ozone Park",
+        "Borough": "Queens",
+        "Description":"A diverse neighborhood known for its large Italian-American population, Ozone Park has become a more diverse community made up of Caribbean, Hispanic, and East/South Asian residents."
+    },
+    {
+        "the_geom": [
+            "-73.80986478649048",
+            "40.66854957767199"
+        ],
+        "Name": "South Ozone Park",
+        "Borough": "Queens",
+        "Description": "South Ozone Park is a neighborhood in the southwestern section of the New York City borough of Queens. It is just north of John F. Kennedy International Airport, between Aqueduct Racetrack to the west and the Van Wyck Expressway to the east."
+    },
+    {
+        "the_geom": [
+            "-73.84304528896132",
+            "40.78490274926025"
+        ],
+        "Name": "College Point",
+        "Borough": "Queens", 
+        "Description": "College Point is a mostly residential ethnically diverse community with some industrial areas. The neighborhood is served by several parks and contains two yacht clubs."
+    },
+    {
+        "the_geom": [
+            "-73.8142021661087",
+            "40.781290766026984"
+        ],
+        "Name": "Whitestone",
+        "Borough": "Queens", 
+        "Description": "Whitestone is a residential neighborhood in the northernmost part of the New York City borough of Queens. The neighborhood proper is located between the East River to the north; College Point and Whitestone Expressway to the west; Flushing and 25th Avenue to the south; and Bayside and Francis Lewis Boulevard to the east. Whitestone contains the subsection of Malba, which is bounded to the north by the East River, to the east by the Whitestone Expressway, to the south by 14th Avenue, and to the west by 138th Street. Malba was cited in a New York Times article as one of the few 'elite enclaves' of Queens."
+    },
+    {
+        "the_geom": [
+            "-73.77427363068676",
+            "40.76604063281068"
+        ],
+        "Name": "Bayside",
+        "Borough": "Queens", 
+        "Description": "Bayside is a neighborhood in the New York City borough of Queens. It is bounded by Whitestone to the northwest, the Long Island Sound and Little Neck Bay to the northeast, Douglaston to the east, Bellerose to the south, and Fresh Meadows to the west. CNN Money ranked Bayside as one of the most expensive housing markets nationally when analyzing comparable detached homes throughout the United States. Despite its large housing stock of free-standing homes, it nationally ranks high to very high in population density."
+    },
+    {
+        "the_geom": [
+            "-73.79176243728068",
+            "40.761729549032665"
+        ],
+        "Name": "Auburndale",
+        "Borough": "Queens", 
+        "Description":"The most common style of house in Auburndale is the Tudor. The Auburndale Improvement Association, along with other groups, seeks 'to preserve the neighborhood’s small-scale, lawns-and-driveways character, which in some respects seems to have more in common with nearby suburban Nassau County than New York.' Along with Tudors, capacious Dutch colonials and Cape Cod houses also abound."
+    },
+    {
+        "the_geom": [
+            "-73.73889775580747",
+            "40.77082619282674"
+        ],
+        "Name": "Little Neck",
+        "Borough": "Queens", 
+        "Description":"Douglaston–Little Neck is a neighborhood in the northeastern part of the New York City borough of Queens. The community is located on the North Shore of Long Island, bordered to the east by the region of Great Neck in Nassau County, to the south by Glen Oaks and the North Shore Towers, and to the west by Bayside. The neighborhood is composed of two main sections. Little Neck is generally used to refer to the area east of Marathon Parkway and/or north of Northern Boulevard, while Douglaston is the rest of the neighborhood; these classifications may overlap depending on different interpretations of neighborhood boundaries."
+    },
+    {
+        "the_geom": [
+            "-73.74249820727337",
+            "40.766846097907674"
+        ],
+        "Name": "Douglaston",
+        "Borough": "Queens", 
+        "Description":"Douglaston–Little Neck is a neighborhood in the northeastern part of the New York City borough of Queens. The community is located on the North Shore of Long Island, bordered to the east by the region of Great Neck in Nassau County, to the south by Glen Oaks and the North Shore Towers, and to the west by Bayside. The neighborhood is composed of two main sections. Little Neck is generally used to refer to the area east of Marathon Parkway and/or north of Northern Boulevard, while Douglaston is the rest of the neighborhood; these classifications may overlap depending on different interpretations of neighborhood boundaries."
+    },
+    {
+        "the_geom": [
+            "-73.71548118999152",
+            "40.74944079974336"
+        ],
+        "Name": "Glen Oaks",
+        "Borough": "Queens", 
+        "Description":"Garden apartments dominate this community, such as the Glen Oaks Village (circa 1947): This Cooperative Apartment complex extends from Little Neck Parkway eastwards to 263rd Street, north to the Royal Ranch, and south to Union Turnpike. The other section extends from Commonwealth Boulevard to 249th Street."
+    },
+    {
+        "the_geom": [
+            "-73.7201281482691",
+            "40.72857318176679"
+        ],
+        "Name": "Bellerose",
+        "Borough": "Queens", 
+        "Description": "The neighborhood consists predominantly of detached houses with mostly Indian American, European American, and working and middle class populations. While the northeastern section of Queens Village is sometimes referred to as part of Bellerose, it is also called Bellerose Manor, which is recognized by the U.S. Postal Service as an 'acceptable alternate' to Queens Village and Jamaica in postal addresses."
+    },
+    {
+        "the_geom": [
+            "-73.82087764933573",
+            "40.72257824422808"
+        ],
+        "Name": "Kew Gardens Hills",
+        "Borough": "Queens", 
+        "Description": "Growth to Kew Gardens Hills came when Kew Gardens, Queens, to the south, gained a subway line at Queens Boulevard in 1936 and Flushing Meadows–Corona Park, directly to the northwest of the neighborhood, hosted the 1939 New York World's Fair. Early residents were mostly German, Irish and Italian. Many were relocating from Brooklyn and Manhattan. The area was hilly and Kew Gardens was known as a prestigious Queens neighborhood and so developers changed its name from Queens Valley to Kew Gardens Hills."
+    },
+    {
+        "the_geom": [
+            "-73.78271337003271",
+            "40.734394465331334"
+        ],
+        "Name": "Fresh Meadows",
+        "Borough": "Queens", 
+        "Description": "The name 'Fresh Meadows' dates back to before the American Revolution. Fresh Meadows was part of the Town of Flushing, which had large areas of salt meadows, such as the original 'Flushing Meadows'. The wetlands in the hilly ground south and east of the village of Flushing, however, were fed by freshwater springs, and thus were 'fresh meadows'. Fresh Meadows Road (which today follows the same route under a number of names, including Fresh Meadows Lane and part of Utopia Parkway) traversed the area, and served as the route from the landing place at Whitestone to the village of Jamaica. In The Evening Post in 1805, farm owner James Smith advertised the sale of his 60-acre farm 'on the road to Fresh Meadows and Flushing'."
+    },
+    {
+        "the_geom": [
+            "-73.81174822458641",
+            "40.710935472522756"
+        ],
+        "Name": "Briarwood",
+        "Borough": "Queens", 
+        "Description": "Briarwood is a diverse community, according to 2010 census data that groups Briarwood with neighboring Jamaica Hills, the population consists of Asian-Americans (36.1%), White (21.5%), Hispanics (24.7%), and African Americans (11.5%). This is a marked change from the post-World War II period (1950s–1980s) when the neighborhood was almost exclusively white, with a large and active Jewish community. Economic activity is mostly confined to small restaurants, delis, markets, and other small businesses. The neighborhood contains housing for middle-class families."
+    },
+    {
+        "the_geom": [
+            "-73.79690165888296",
+            "40.704657360687214"
+        ],
+        "Name": "Jamaica Center",
+        "Borough": "Queens", 
+        "Description": "The neighborhood was named Yameco, a corruption of the word yamecah, meaning 'beaver', in the language spoken by the Lenape, the Native Americans who lived in the area at the time of first European contact. The liquid 'y' sound of English is spelled with a 'j' in Dutch, the language of the first people to write about the area; the English retained this Dutch spelling, but, after repeated reading and speaking of 'Jamaica', slowly replaced the liquid sound with the hard 'j' of the English pronunciation of the name today."
+    },
+    {
+        "the_geom": [
+            "-73.75494976234339",
+            "40.74561857141858"
+        ],
+        "Name": "Oakland Gardens",
+        "Borough": "Queens", 
+        "Description": "Oakland Gardens is a middle class neighborhood in the southern part of Bayside, bounded to the north by the Long Island Expressway, to the east by Alley Pond Park, to the south by Union Turnpike, and to the west by Cunningham Park. Bayside proper is to the north, and Queens Village and Bellerose are to the south and southeast, respectively. Fredrick Newbold Lawrence built a mansion in the area in 1847 called 'The Oaks', and the neighborhood's name probably derives from that estate.[26] Many people refer to Oakland Gardens as 'southern Bayside'. "
+    },
+    {
+        "the_geom": [
+            "-73.73871484578433",
+            "40.7188930921674"
+        ],
+        "Name": "Queens Village",
+        "Borough": "Queens", 
+        "Description":"Queens Village is a mostly residential middle class neighborhood in the eastern part of the New York City borough of Queens. It is bound by Hollis to the west, Cambria Heights to the south, Bellerose to the east, and Oakland Gardens to the north. Shopping in the community is located along Braddock Avenue, Hillside Avenue, Hempstead Avenue, and Jamaica Avenue (NY 25), as well as on Springfield Boulevard. Located just east of Queens Village, in Nassau County, is the Belmont Park race track."
+    },
+    {
+        "the_geom": [
+            "-73.75925009335602",
+            "40.71124344191908"
+        ],
+        "Name": "Hollis",
+        "Borough": "Queens", 
+        "Description":"Hollis is a residential middle-class neighborhood within the southeastern section of the New York City borough of Queens. While a predominantly African-American community, there are small minorities of Hispanics and South Asians residing in the area. Boundaries are considered to be 181st Street to the west, Hillside Avenue to the north, Francis Lewis Boulevard to the east, and Murdock Avenue to the south. Hollis is located between Jamaica to the west and Queens Village to the east."
+    },
+    {
+        "the_geom": [
+            "-73.79042613135549",
+            "40.69691125378992"
+        ],
+        "Name": "South Jamaica",
+        "Borough": "Queens", 
+        "Description" : "South Jamaica is generally considered to be the area south of Downtown Jamaica (Jamaica Center) or Jamaica Avenue, with the Van Wyck Expressway to the west, and Merrick Boulevard to the east. The eastern border extends as far as the LIRR Montauk Branch tracks in the northern part of the neighborhood. John F. Kennedy International Airport lies to the south across the Belt Parkway."
+    },
+    {
+        "the_geom": [
+            "-73.75867603727725",
+            "40.69444538522363"
+        ],
+        "Name": "St. Albans",
+        "Borough": "Queens", 
+        "Description" : "St. Albans housing consists mostly of detached, one and two-family homes. Linden Boulevard is the major shopping street. In 2011 The New York Times reported that many foreclosures were occurring and there was a high level of unemployment. At that time, many black people were moving from St. Albans to the Southern United States."
+    },
+    {
+        "the_geom": [
+            "-73.77258787620913",
+            "40.675211395917366"
+        ],
+        "Name": "Rochdale",
+        "Borough": "Queens", 
+        "Description" : "Rochdale Village (pronounced /ˈrɑːtʃ.deɪl/[1]) is a housing cooperative and neighborhood in the southeastern corner of the New York City borough of Queens. Located in Community District 12, Rochdale Village is grouped as part of Greater Jamaica, corresponding to the former Town of Jamaica."
+    },
+    {
+        "the_geom": [
+            "-73.76042092682295",
+            "40.666230490368626"
+        ],
+        "Name": "Springfield Gardens",
+        "Borough": "Queens", 
+        "Description" : "The area was first settled by Europeans in 1660, and was subsequently farmed until the mid nineteenth-century. Today the area maintains its low-rise suburban nature. It is home to majority Afro-Caribbean and Indo-Caribbean populations including immigrants from Jamaica, Trinidad, Haiti and Guyana. Many homes have been torn down and remade for more families as more people move into the neighborhood. Part is in a Registered historic District."
+    },
+    {
+        "the_geom": [
+            "-73.73526873708033",
+            "40.69277463916089"
+        ],
+        "Name": "Cambria Heights",
+        "Borough": "Queens", 
+        "Description" : "The name Cambria Heights was coined in the mid 1920s when the Cambria Title Savings and Trust Company, a bank based in Cambria County, Pennsylvania, provided financing for early development which was aimed at families seeking to relocate from rental apartments in other boroughs. At an elevation of 50 feet (15 m) above sea level, it is considered to be one of the highest points in Queens, together with Jackson Heights and Richmond Hill."
+    },
+    {
+        "the_geom": [
+            "-73.73526079428285",
+            "40.65981643342812"
+        ],
+        "Name": "Rosedale",
+        "Borough": "Queens", 
+        "Description" : "During the mid-1970s, African American and Caribbean families started moving into what had been a mostly Irish, Italian, and Jewish community. Many black families' homes were firebombed to harass them and cajole them to leave. The U.S. government filed a civil-rights lawsuit in 1975 against a group named Return Our American Rights (ROAR), alleging that ROAR had been harassing white homeowners who tried to sell to black clients, and implicating ROAR in some of the firebombings. In 1976, Bill Moyers presented a documentary titled Rosedale: The Way It Is, which addressed the racial tensions in the community."
+    },
+    {
+        "the_geom": [
+            "-73.7549796804388",
+            "40.60313443250093"
+        ],
+        "Name": "Far Rockaway",
+        "Borough": "Queens", 
+        "Description" : "Far Rockaway attracted tourists and vacationers from the other boroughs. Bungalows were the homes of choice for many residents who lived in Far Rockaway. The railroad abandoned the Rockaway Beach Branch in 1950 because of the shift of many people to driving private cars. In addition, this destination had to compete with the many others that people were visiting by car and air travel, which created access to even more distant destinations and heightened competition for travel dollars. As the neighborhood's heyday as a resort community declined in the 1950s, the city built substantial numbers of public housing developments to try to replace substandard housing after World War II. Bungalows and other residential housing were converted to year-round use for low-income residents. Some bungalows were used as public housing."
+    },
+    {
+        "the_geom": [
+            "-73.82005489110327",
+            "40.603026583512424"
+        ],
+        "Name": "Broad Channel",
+        "Borough": "Queens", 
+        "Description" : "Broad Channel is a neighborhood in the southern portion of the New York City borough of Queens. It occupies the southern portion of Rulers Bar Hassock (known colloquially as 'Broad Channel Island'), the only inhabited island in Jamaica Bay."
+    },
+    {
+        "the_geom": [
+            "-73.92551196994177",
+            "40.557401288454564"
+        ],
+        "Name": "Breezy Point",
+        "Borough": "Queens",
+        "Description" : "Due to its history of population by Irish-Americans, Breezy Point has been called the 'Irish Riviera.' Since the mid-1990s, Italians and Jews have also moved into Breezy Point, making the concentration of Irish-Americans drop."
+    },
+    {
+        "the_geom": [
+            "-73.90228960391681",
+            "40.77592301564293"
+        ],
+        "Name": "Steinway",
+        "Borough": "Queens", 
+        "Description" : "Richard Hellmann, creator of Hellmann's mayonnaise, had his first big factory at 495 / 497 Steinway Street from 1915 to 1922. In 1922, operations moved to a larger factory at 34-08 Northern Boulevard."
+    },
+    {
+        "the_geom": [
+            "-73.80436451720996",
+            "40.792781403600515"
+        ],
+        "Name": "Beechhurst",
+        "Borough": "Queens", 
+        "Description" : "During the Silent Movie era, Beechhurst was a favorite vacation area for the rich and famous. Estates lined the waterfront, including the Arthur and Dorothy Dalton Hammerstein House, the former house of Arthur Hammerstein and Dorothy Dalton, which is a New York City designated landmark."
+    },
+    {
+        "the_geom": [
+            "-73.77680222621588",
+            "40.7828428062456"
+        ],
+        "Name": "Bay Terrace",
+        "Borough": "Queens", 
+        "Description" :  "Bay Terrace is a neighborhood in the northeastern section of the New York City borough of Queens. It is often considered part of the larger area of Bayside. Bay Terrace overlooks the East River and the approaches to the Throgs Neck Bridge from the Clearview Expressway and Cross Island Parkway. It is bounded on the west by the Clearview Expressway, on the south by 26th and 28th Avenues, to the east by the Little Neck Bay, and to the north by the East River."
+    },
+    {
+        "the_geom": [
+            "-73.77613282391712",
+            "40.59564180736854"
+        ],
+        "Name": "Edgemere",
+        "Borough": "Queens", 
+        "Description" :  "Edgemere is a neighborhood in the New York City borough of Queens, extending from Beach 32nd to Beach 52nd Street on the Rockaway Peninsula. It contains Rockaway Community Park. Arverne is to the west, and Far Rockaway to the east. Edgemere was founded in 1892 by Frederick J. Lancaster, who originally called it New Venice."
+    },
+    {
+        "the_geom": [
+            "-73.7919923313695",
+            "40.58914394372975"
+        ],
+        "Name": "Arverne",
+        "Borough": "Queens", 
+        "Description" : "Located on the Rockaway Boardwalk, Arverne became well-known as a beachfront community with inexpensive summer bungalows, and hotels of varying levels of expense and luxury as well as amusements and boardwalk concessions. It also attracted year-round residents. On January 3, 1914, a storm devastated the peninsula's neighborhoods and swept the 1,200-seat Arverne Pier Theater out to sea. On June 15, 1922, a fire leveled a large part of Arverne, leaving about 10,000 people homeless, although the neighborhood was quick to rebuild. In 1928, a project to build 5,000 bungalows in Arverne was announced."
+    },
+    {
+        "the_geom": [
+            "-73.82236121088758",
+            "40.58280169684563"
+        ],
+        "Name": "Seaside",
+        "Borough": "Queens",
+        "Description" :"Seaside is a section of the Rockaway Peninsula in the New York City borough of Queens. It is bordered by the Rockaway Beach neighborhood on the east, and by the neighborhood of Rockaway Park on the west. Formerly a resort community of small seasonal bungalows, Seaside is today dominated by middle-income high-rise Mitchell-Lama apartment buildings along its south shore beachfront."
+    },
+    {
+        "the_geom": [
+            "-73.85754672410836",
+            "40.57203673021705"
+        ],
+        "Name": "Neponsit",
+        "Borough": "Queens", 
+        "Description" : "Neponsit is a small affluent neighborhood located on the western half of the Rockaway Peninsula, the southernmost area of the New York City borough of Queens. Neponsit is a Native American name meaning 'the place between waters', the waters of the Atlantic Ocean and of Jamaica Bay or Rockaway Inlet."
+    },
+    {
+        "the_geom": [
+            "-73.81276269135873",
+            "40.7641261226141"
+        ],
+        "Name": "Murray Hill",
+        "Borough": "Queens", 
+        "Description" :"Traditionally the home of families of Irish and Italian immigrants, many Korean and Chinese immigrants have moved into Murray Hill in recent years. Murray Hill within Flushing is often confused with the larger Murray Hill neighborhood on the East Side of Manhattan."
+    },
+    {
+        "the_geom": [
+            "-73.70884705889253",
+            "40.74137842194548"
+        ],
+        "Name": "Floral Park",
+        "Borough": "Queens", 
+        "Description" : "The area that is now Floral Park once marked the western edge of the great Hempstead Plains, and by some reports was initially known as Plainfield. Farms and tiny villages dominated the area through the 1870s when the development of the Long Island Rail Road Hempstead Branch and Jericho Turnpike cut through the area. Hinsdale had more than two dozen flower farms after the Civil War. The present-day village of Floral Park was once called East Hinsdale."
+    },
+    {
+        "the_geom": [
+            "-73.76714166714736",
+            "40.720957207644446"
+        ],
+        "Name": "Holliswood",
+        "Borough": "Queens", 
+        "Description" :"Holliswood is a neighborhood in New York City, New York with a population of 8,096. Holliswood is in Queens County. Living in Holliswood offers residents a dense urban feel and most residents own their homes. In Holliswood there are a lot of restaurants, coffee shops, and parks. Many young professionals and retirees live in Holliswood and residents tend to be liberal. The public schools in Holliswood are above average."
+    },
+    {
+        "the_geom": [
+            "-73.78722696936667",
+            "40.716804830146174"
+        ],
+        "Name": "Jamaica Estates",
+        "Borough": "Queens", 
+        "Description" : "The area is characterized by million-dollar homes and a multitude of trees. Midland Parkway, a four-lane boulevard with a wide, landscaped median strip whose renovation was completed in 2007, is the area's main artery. The neighborhood consists of mostly upper-middle-class residents. Most houses are single-family detached homes in the Tudor, Craftsman, Cape Cod, or Mediterranean styles. Out of 14,000 residents, 45% are foreign-born. In the 2000 United States Census, 43% of residents were white, Bangladeshis comprise 11% of residents, while Filipinos make up 10%, Haitians 7%, Guyanese 5%, and Russians 4%. A population of over 1,000 Bukharan Jews live in the area."
+    },
+    {
+        "the_geom": [
+            "-73.82580915110566",
+            "40.744572309286745"
+        ],
+        "Name": "Queensboro Hill",
+        "Borough": "Queens", 
+        "Description" :"Queensboro Hill in southern Flushing is bordered to the west by College Point Boulevard, to the north by Kissena Park and Kissena Corridor Park, to the south by Reeves Avenue and the Long Island Expressway, and to the east by Kissena Boulevard. Queensboro Hill is a part of ZIP Codes 11355 and 11367 and contains the NewYork–Presbyterian/Queens hospital. One of the leading churches is the Queensboro Hill Community Church, a multi-racial congregation of the Reformed Church in America. Turtle Playground serves the residents of this section of Flushing. This area is often referred to as South Flushing."
+    },
+    {
+        "the_geom": [
+            "-73.79760300912679",
+            "40.72382490182924"
+        ],
+        "Name": "Hillcrest",
+        "Borough": "Queens", 
+        "Description" :"Hillcrest is a neighborhood in the center of Queens; the name comes from its location on the hills between Flushing and Jamaica. Hillcrest stretches from the Grand Central Parkway to 73rd Avenue, between Utopia Parkway and Parsons Boulevard. Its main commercial street is Union Turnpike. Hillcrest is part of Queens Community Board 8. The ZIP Codes for the neighborhood are 11366 (Fresh Meadows and Flushing zip code) for anything above Union Turnpike, and 11432 or 11439 (Jamaica zip codes) for the southern part of the neighborhood (below Union Turnpike, north of Grand Central Parkway)."
+    },
+    {
+        "the_geom": [
+            "-73.93157506072886",
+            "40.76170452605419"
+        ],
+        "Name": "Ravenswood",
+        "Borough": "Queens", 
+        "Description" :"Like most of New York City’s other neighborhoods, Ravenswood was first settled by the Dutch when Captain Francis Fyn acquired what would later be called Roosevelt Island and the strip of land facing it across the East River on Long Island in 1651. That island’s namesake for decades was Robert Blackwell; his mansion on Blackwell’s, now Roosevelt, Island still stands, and his son, Jacob, built an imposing dwelling on the East River at about today’s 37th Avenue in 1744 that was razed in 1901. A group of impressive mansions was arrayed on Vernon Boulevard (neé Avenue) in the mid-1800s, none of which remain today."
+    },
+    {
+        "the_geom": [
+            "-73.84963782402448",
+            "40.66391841925143"
+        ],
+        "Name": "Lindenwood",
+        "Borough": "Queens", 
+        "Description" :"After World War II, parts of Queens went through a residential boom where co-op apartment buildings, single-family homes, and duplexes were built quickly. Thus, Lindenwood was born. Now, the community is a mix of housing stock and residents—its own little world in the middle of New York City’s largest borough. In addition to proximity to John F. Kennedy International Airport and Jamaica Bay, Lindenwood offers affordable homes compared to other NYC neighborhoods."
+    },
+    {
+        "the_geom": [
+            "-73.74025607989829",
+            "40.667883896602504"
+        ],
+        "Name": "Laurelton",
+        "Borough": "Queens",
+        "Description":"Laurelton derives its name from the Laurelton station on the Long Island Rail Road, which was named for the laurels that grew there over 100 years ago. It was developed by Dean Alvord and was modeled after an English village, with stately Tudor-style homes, both attached and detached. A few co-ops exist in a former garden apartment complex, there has been some new construction but no high-rise buildings, which has enabled Laurelton to keep its small town feel."
+    },
+    {
+        "the_geom": [
+            "-73.86252471413746",
+            "40.73607457083084"
+        ],
+        "Name": "Lefrak City",
+        "Borough": "Queens",
+        "Description": "LeFrak City is a 4,605-apartment development in the southernmost region of Corona and the easternmost part of Elmhurst, a neighborhood in the New York City borough of Queens. It is located between Junction Boulevard to the west, 57th Avenue to the north, 99th Street to the east, and the Long Island Expressway to the south."
+    },
+    {
+        "the_geom": [
+            "-73.85401750392529",
+            "40.57615556543113"
+        ],
+        "Name": "Belle Harbor",
+        "Borough": "Queens", 
+        "Description":"Belle Harbor is a small residential neighborhood in the New York City borough of Queens, located on the western half of the Rockaway Peninsula, the southernmost area of the borough. Belle Harbor commonly refers to the area from Beach 126th to Beach 141st Streets. The makings of Belle Harbor began in 1900, when a New York State judge ordered that the land west of Rockaway Park be put up for auction."
+    },
+    {
+        "the_geom": [
+            "-73.84153370226193",
+            "40.58034295646135"
+        ],
+        "Name": "Rockaway Park",
+        "Borough": "Queens", 
+        "Description": "The heavily Irish Rockaway Park has been called the 'Irish Riviera'. The 2000 United States Census showed that 36.0% of the population were of Irish ancestry in the ZCTA for ZIP Code 11694. The Saint Patrick's Day parade in Rockaway is the second-largest St. Patrick's Day Parade in New York City, second only to New York City's Saint Patrick's Day Parade up Fifth Avenue in Manhattan."
+    },
+    {
+        "the_geom": [
+            "-73.79664750844056",
+            "40.59771061565772"
+        ],
+        "Name": "Somerville",
+        "Borough": "Queens", 
+        "Description": "Somerville is a neighborhood in Queens with a total population of 13,113. It occupies approximately 0.77 square miles. There are 48 street trees per square mile."
+    },
+    {
+        "the_geom": [
+            "-73.7517531073116",
+            "40.66000322733616"
+        ],
+        "Name": "Brookville",
+        "Borough": "Queens", 
+        "Description": "Brookville is served by the Rosedale and Laurelton Long Island Rail Road stations. Service is provided by the Far Rockaway Branch and Long Beach Branch. The CityTicket program is available at these stations."
+    },
+    {
+        "the_geom": [
+            "-73.73889198912488",
+            "40.73301404027838"
+        ],
+        "Name": "Bellaire",
+        "Borough": "Queens", 
+        "Description": "Bellaire is a mixed working class sub neighborhood of Queens Village. Bellaire, zip code 11429 is 1/3 of the greater area known as Queens Village. The other 2 sections are Hollis Hills 11427 & Queens Village Proper. Bellaire is the largest area of Queens Village, which some residents have affectionately tabbed, Shadyville."
+    },
+    {
+        "the_geom": [
+            "-73.85751790676454",
+            "40.75407099904894"
+        ],
+        "Name": "North Corona",
+        "Borough": "Queens", 
+        "Description":  "Based on data from the 2010 United States Census, the population of North Corona was 52,037, a change of 4,881 (9.4%) from the 47,156 counted in 2000. Covering an area of 413.24 acres (167.23 ha), the neighborhood had a population density of 125.9 inhabitants per acre (80,600/sq mi; 31,100/km2). The racial makeup of the neighborhood was 1.8% (929) White, 4.9% (2,566) African American, 0.1% (67) Native American, 6.9% (3,597) Asian, 0% (5) Pacific Islander, 0.7% (351) from other races, and 0.5% (259) from two or more races. Hispanic or Latino of any race were 85.1% (44,263) of the population. The 2020 census data from New York City Department of City Planning showed North Corona having between 30,000 to 39,999 Hispanic residents, meanwhile each the White, Black, and Asian residents were all each less than 5000 residents."
+    },
+    {
+        "the_geom": [
+            "-73.84102211234017",
+            "40.71461108151174"
+        ],
+        "Name": "Forest Hills Gardens",
+        "Borough": "Queens", 
+        "Description": "Grosvenor Atterbury, a renowned architect, was given the commission to design Forest Hills Gardens. The neighborhood was planned on the model of the garden communities of England, with its own inn, garage, and post office. It also included narrow, winding roads to limit through traffic. As a result, there are many Tudor-style homes in Forest Hills."
+    },
+    {
+        "the_geom": [
+            "-74.07935312512804",
+            "40.64498157100444"
+        ],
+        "Name": "St. George",
+        "Borough": "Staten Island", 
+        "Description":"Originally, Staten Island was inhabited by the Munsee-speaking Lenape Native Americans. The Lenape relocated during different seasons, moving toward the shore to fish during the summers, and moving inland to hunt and grow crops during the fall and winter. The present-day area of New York City was inhabited in 1624 by Dutch settlers as part of New Netherland. In 1664, the Dutch gave New Netherland to the British, and six years later the British finalized a purchase agreement with the Lenape."
+    },
+    {
+        "the_geom": [
+            "-74.08701650516633",
+            "40.64061455913515"
+        ],
+        "Name": "New Brighton",
+        "Borough": "Staten Island",
+        "Description":"New Brighton is a neighborhood located on the North Shore of Staten Island in New York City. The neighborhood comprises an older industrial and residential harbor front area along the Kill Van Kull west of St. George. New Brighton is bounded by Kill Van Kull on the north, Jersey Street on the east, Brighton and Castleton Avenues to the south, and Lafayette Avenue and Snug Harbor Cultural Center to the west. It is adjacent to St. George to the east, Tompkinsville to the south, and West New Brighton to the west."
+    },
+    {
+        "the_geom": [
+            "-74.07790192660073",
+            "40.6269276253818"
+        ],
+        "Name": "Stapleton",
+        "Borough": "Staten Island",
+        "Description":"Stapleton is one of the older waterfront neighborhoods of the borough, built in the 1830s on land once owned by the Vanderbilt family. It was a long-time commercial center of the island, but has struggled to revive after several decades of neglect following the 1964 construction of the Verrazzano-Narrows Bridge, which shifted the commercial development of the island to its interior."
+    },
+    {
+        "the_geom": [
+            "-74.06980526716148",
+            "40.61530494652765"
+        ],
+        "Name": "Rosebank",
+        "Borough": "Staten Island",
+        "Description":"The neighborhood once had a federal quarantine station for incoming immigrants (closed in 1971) and was the home of noted photographer Alice Austen, one of Staten Island's best-known historic figures. The Garibaldi-Meucci Museum is co-named for longtime resident Antonio Meucci, who had some claim to the invention of a working telephone. But he was too impoverished to obtain a patent or market his discovery. When Giuseppe Garibaldi, in exile from Italy, visited the United States, he stayed for a time at Meucci's home. That later inspired the museum's name, honoring both men."
+    },
+    {
+        "the_geom": [
+            "-74.10718178265617",
+            "40.63187892654611"
+        ],
+        "Name": "West Brighton",
+        "Borough": "Staten Island",
+        "Description":"This area of Staten Island was originally settled by the Dutch in the 1600s, who were then followed by English settlers. During the American Revolution residents of West Brighton overtly remained loyal to the Crown. Successive waves of immigrants to the US then led to the area becoming populated by the Irish. Today, the neighborhood consists mostly of Irish followed by Germans, Italians, African Americans, and Hispanics."
+    },
+    {
+        "the_geom": [
+            "-74.08724819983736",
+            "40.62418479131304"
+        ],
+        "Name": "Grymes Hill",
+        "Borough": "Staten Island",
+        "Description": "Grymes Hill, which has views of Lower New York Bay and the Narrows, is the second highest point on Staten Island after Todt Hill, reaching its greatest elevation of 374 feet (114 m) above sea level. Hero Park, 3 acres (12,000 m2) in size, is located at the intersection of Victory Boulevard and Louis Street, abutting the Notre Dame Academy property."
+    },
+    {
+        "the_geom": [
+            "-74.11132881800887",
+            "40.59706851814676"
+        ],
+        "Name": "Todt Hill",
+        "Borough": "Staten Island",
+        "Description": "The name Todt comes from the German word 'Tod' for 'dead' and may refer to the cemetery (the present Moravian Cemetery, opened in 1740 and now the island's largest cemetery) on the southwestern foot of the ridge near the town of New Dorp that has been in use since colonial days. An alternate explanation is that the name was given by early Dutch settlers because of treeless rocky exposures on the hilltop, caused by the soil of the Staten Island Serpentinite locality."
+    },
+    {
+        "the_geom": [
+            "-74.07955292539827",
+            "40.5802474135096"
+        ],
+        "Name": "South Beach",
+        "Borough": "Staten Island",
+        "Description": "South Beach contains a boardwalk with an eponymous beach on its southeastern coast. Directly east of the beach are two small islands, Hoffman Island and Swinburne Island. The northern part of South Beach is sometimes known as Arrochar."
+    },
+    {
+        "the_geom": [
+            "-74.12943426797015",
+            "40.63366930554369"
+        ],
+        "Name": "Port Richmond",
+        "Borough": "Staten Island",
+        "Description":"Formerly an independent village, it is one of the oldest neighborhoods on the island. In the 19th century it was an important transportation and industrial center of the island, but this role has vanished nearly completely, leaving a largely blue collar residential area bypassed by the shift of development of the island to its interior after the 1960s. The formerly bustling commercial center along Richmond Avenue (now Port Richmond Avenue) had been largely abandoned at the time, but many small businesses have opened in the area since the late 20th century."
+    },
+    {
+        "the_geom": [
+            "-74.15008537046988",
+            "40.63254639048117"
+        ],
+        "Name": "Mariner's Harbor",
+        "Borough": "Staten Island",
+        "Description":"Mariners Harbor was home to large shipping and dry dock companies in the first half of the 20th century, including Bethlehem Steel, which owned a considerable portion of land in the area with headquarters along the waterfront on Richmond Terrace across from Mersereau Avenue and Brewers Dry Dock. Bethlehem Steel built United States Navy Destroyers during World War II."
+    },
+    {
+        "the_geom": [
+            "-74.17464532993549",
+            "40.63968297845546"
+        ],
+        "Name": "Port Ivory",
+        "Borough": "Staten Island",
+        "Description":"The area bore the name of Milliken originally, and became locally known as Port Ivory after Ivory Soap, one of the best-known products from Procter & Gamble, which operated a factory at the site from 1907 until 1991, when the soap making operation was moved to Mexico."
+    },
+    {
+        "the_geom": [
+            "-74.1191805853485",
+            "40.613335937667465"
+        ],
+        "Name": "Castleton Corners",
+        "Borough": "Staten Island",
+        "Description": "The word 'corners' in the neighborhood's name refers to the intersection of Victory Boulevard and Manor Road, which forms its core. This part of Castleton, Staten Island was once called Centerville, but became more popularly known as Castleton Corners when a post office by that name was opened there in 1872. 'Castleton' refers to Cassiltowne, County Kildare, Ireland, the birthplace of Thomas Dongan, the colonial governor of the Province of New York after it was obtained from the Dutch—who had called it New Amsterdam—in 1682. The post office later closed, but reopened in 1949, and today it is the general, or main, post office for Staten Island as a whole, its ZIP Code being 10314."
+    },
+    {
+        "the_geom": [
+            "-74.16496031329834",
+            "40.59425237916174"
+        ],
+        "Name": "New Springville",
+        "Borough": "Staten Island",
+        "Description":"New Springville remained largely rural until 1964, when the E. J. Korvette department store chain opened an outlet on the site of a former chicken farm. This was followed, in 1973, by the opening of the Staten Island Mall on the grounds of what had been a little-used airport, which changed the character of the neighborhood completely; soon adjacent land was converted to business (mostly retail) use as well."
+    },
+    {
+        "the_geom": [
+            "-74.19073717538123",
+            "40.58631375103285"
+        ],
+        "Name": "Travis",
+        "Borough": "Staten Island", 
+        "Description": "Also know as Chelsea, Travis is mostly open marsh and is relatively undeveloped, although there are some businesses and one-family houses. It borders on the Teleport and is the site of Staten Island's West Shore Plaza and the Metropolitan Transportation Authority's Meredith Avenue Bus Depot. "
+    },
+    {
+        "the_geom": [
+            "-74.11647943606387",
+            "40.57257231820636"
+        ],
+        "Name": "New Dorp",
+        "Borough": "Staten Island",
+        "Description": "One of the earliest European settlements in the New York City area, New Dorp was founded by Dutch settlers from the New Netherland colony, and the name is an anglicization of Nieuw Dorp, meaning 'New Village' in Dutch. It was historically one of the most important towns on Staten Island, becoming a part of New York City in 1898 as part of the Borough of Richmond. In the 1960s New Dorp ceased to be a distinct town during New York City's suburbanization, where rapid housing development on Staten Island saw the town added to the city conurbation. Despite this, today New Dorp remains one of the main commercial and transport centers on Staten Island."
+    },
+    {
+        "the_geom": [
+            "-74.12156593771904",
+            "40.558462243288844"
+        ],
+        "Name": "Oakwood",
+        "Borough": "Staten Island", 
+        "Description":"Dominated by farmland in the heights area, and an ocean resort in the beach area until the mid-20th century, Oakwood started suburbanization when a Staten Island Tunnel was proposed to connect to the New York City Subway. Development was rapid after the Verrazzano-Narrows Bridge opened in November 1964. Today, Oakwood is a middle-class neighborhood of one- and two-family homes and garden apartments, with important commercial establishments along Hylan Boulevard."
+    },
+    {
+        "the_geom": [
+            "-74.14932381490999",
+            "40.54948022871365"
+        ],
+        "Name": "Great Kills",
+        "Borough": "Staten Island", 
+        "Description":"The term 'Great Kills' traces back informally at least to 1664, the final year of the Dutch colony of New Amsterdam, when French settler Jacques Guyon called the area 'La Grand Kills'."
+    },
+    {
+        "the_geom": [
+            "-74.16433080419367",
+            "40.54223074745079"
+        ],
+        "Name": "Eltingville",
+        "Borough": "Staten Island",
+        "Description":"In the early 20th century, Eltingville was settled primarily by Scandinavians, mostly Norwegians, to the point that unrelated families in the neighborhood often shared identical surnames, including Hansen, Johnson, Erickson, Ronning, Nygren, Bundesen and Swanson. These names were so common that people in Eltingville would differentiate between families by appending their trade or other defining characteristics with nicknames, such as 'delicatessen Hansen', 'fish Hansen', 'two-family' Hansen. A granddaughter of one of these Eltingville families is model Patti Hansen, wife of Rolling Stones guitarist Keith Richards."
+    },
+    {
+        "the_geom": [
+            "-74.17854866165885",
+            "40.538114174745104"
+        ],
+        "Name": "Annadale",
+        "Borough": "Staten Island",
+        "Description":"In 1929, immigrants from Spain purchased land along the Annadale shoreline, and founded a settlement that became known as the Spanish Camp, or Spanish Colony. First tents, and later bungalows, were built at the site. The site was purchased and buildings demolished at the end of the 20th century so that several large, upscale homes could be constructed."
+    },
+    {
+        "the_geom": [
+            "-74.22135055371616",
+            "40.53745265012707"
+        ],
+        "Name": "Woodrow",
+        "Borough": "Staten Island",
+        "Description":"The first Methodist church in the immediate New York City area opened in the neighborhood in 1771. Known today as the Woodrow United Methodist Church, its original congregants included some of the island's earliest well-known families. It was listed on the National Register of Historic Places in 1982."
+    },
+    {
+        "the_geom": [
+            "-74.24656934235291",
+            "40.505333761156464"
+        ],
+        "Name": "Tottenville",
+        "Borough": "Staten Island",
+        "Description":"During the colonial period and for a significant time thereafter, Tottenville was an important waypoint for travelers between New York City—of which Staten Island did not formally become a part until 1898—and Philadelphia. These were both sites of temporary capitals of the new United States. The town was the site of a ferry that crossed the Arthur Kill to the Ferry Slip in Perth Amboy, New Jersey. The ferry became less important when the Outerbridge Crossing opened in 1928, but continued to operate until 1963."
+    },
+    {
+        "the_geom": [
+            "-74.08055351790122",
+            "40.63731606711036"
+        ],
+        "Name": "Tompkinsville",
+        "Borough": "Staten Island",
+        "Description":"Tompkinsville contains an enclave of Sri Lankans. The neighborhood also hosts a number of live music and art venues, including Everything Goes Book Café, Deep Tanks Studio, Coyle Cavern, Ink Chyx Tattoo & Art Gallery, and the Staten Island LGBT Community Center, all of which take part in the north shore's monthly Second Saturday art walk."
+    },
+    {
+        "the_geom": [
+            "-74.09629029235465",
+            "40.619193107926804"
+        ],
+        "Name": "Silver Lake",
+        "Borough": "Staten Island",
+        "Description":"Silver Lake has a long history of both recreational and commercial uses. During the 19th century, a casino and saloon existed on the lakeshore and several companies harvested its ice. Staten Islanders used the lake for boating and ice skating in that era, and in February 1897, Silver Lake hosted the National Skating Amateur Championship races."
+    },
+    {
+        "the_geom": [
+            "-74.09712552178537",
+            "40.612760157564935"
+        ],
+        "Name": "Sunnyside",
+        "Borough": "Staten Island",
+        "Description":"Sunnyside was originally farmland on either side of Clove Road. As farms gave way to residential housing, the Vanderbilt family built homes in the area, including two which still stand at the corner of Victory Boulevard and Clove Road. The area was once known as Clove Valley or Clovenia, and then adopted the name Sunnyside from a boarding house that was established there in 1889."
+    },
+    {
+        "the_geom": [
+            "-73.96101312466787",
+            "40.64367518334101"
+        ],
+        "Name": "Ditmas Park",
+        "Borough": "Brooklyn",
+        "Description":"This jaw-droppingly beautiful hood seems almost too good to be true: a charming suburb inside city limits, with a warm, diverse community and one of the country’s richest concentrations of Victorian architecture. If big porches, friendly neighbors, and a short commute to Manhattan are on your wish list, you can have it all in Ditmas Park."
+    },
+    {
+        "the_geom": [
+            "-73.93718680559321",
+            "40.660946561881154"
+        ],
+        "Name": "Wingate",
+        "Borough": "Brooklyn",
+        "Description":"The neighborhood was originally named Pigtown. It was so named because it was the location of several major pig farms that supplied Brooklyn. Pigtown was at the southern periphery of the City of Brooklyn where it bordered the Town of Flatbush. On modern maps it is bounded on the north by Empire Boulevard (formerly Malbone Street), on the south by Midwood Street, on the east by Albany Avenue and on the west by Nostrand Avenue. Future drag racer Frederick DiNome and his criminal brother Richard DiNome were born and raised in Pigtown."
+    },
+    {
+        "the_geom": [
+            "-73.92688212616963",
+            "40.65557231328081"
+        ],
+        "Name": "Rugby",
+        "Borough": "Brooklyn",
+        "Description": "Although it has been described as a 'subsection of the larger East Flatbush neighborhood,' with an estimated 60,000 residents, it has it own identity as 'the Remsen Village neighborhood of Brooklyn' and also as 'Rugby-Remsen Village.' "
+    },
+    {
+        "the_geom": [
+            "-74.08015734936303",
+            "40.60919044434562"
+        ],
+        "Name": "Park Hill",
+        "Borough": "Staten Island",
+        "Description": "Not only does Staten Island never make the NYC guidebooks, there might be parts of Staten Island that even Staten Islanders don’t know about. One of these neighborhoods is Park Hill, nestled along the Grymes foothills just south of Stapleton. Fewer Staten Islanders might remember that Park Hill is the former home of the National Football League in Staten Island."
+    },
+    {
+        "the_geom": [
+            "-74.13304143951713",
+            "40.62109047275413"
+        ],
+        "Name": "Westerleigh",
+        "Borough": "Staten Island",
+        "Description": "Westerleigh is home to the oldest tennis club in the US, tennis having been introduced to the US (from England, via Bermuda) at the home here of Mary Ewing Outerbridge. She played the first game in the US at the Staten Island Cricket Club on an hourglass shaped court. The location, on College Avenue, still sports a tennis court."
+    },
+    {
+        "the_geom": [
+            "-74.1531524638777",
+            "40.62017151223193"
+        ],
+        "Name": "Graniteville",
+        "Borough": "Staten Island",
+        "Description": "Largely rural well into the 20th century, Graniteville was the scene of a notable fire in March 1942, when an explosion at the Consolidated Fireworks Company on Richmond Avenue claimed the lives of five employees."
+    },
+    {
+        "the_geom": [
+            "-74.16510420241131",
+            "40.63532509911496"
+        ],
+        "Name": "Arlington",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.06712363225581",
+            "40.596312571276776"
+        ],
+        "Name": "Arrochar",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.07667436279057",
+            "40.59826835959995"
+        ],
+        "Name": "Grasmere",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.08751118005587",
+            "40.596328913795176"
+        ],
+        "Name": "Old Town",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.09639905312528",
+            "40.58867294819932"
+        ],
+        "Name": "Dongan Hills",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.09348266303599",
+            "40.573526905742874"
+        ],
+        "Name": "Midland Beach",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.10585598545441",
+            "40.57621558711792"
+        ],
+        "Name": "Grant City",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.10432707469131",
+            "40.56425549307338"
+        ],
+        "Name": "New Dorp Beach",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.13916622175775",
+            "40.55398800858466"
+        ],
+        "Name": "Bay Terrace",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.19174105747821",
+            "40.53191192048964"
+        ],
+        "Name": "Huguenot",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.21983106616784",
+            "40.52469937611818"
+        ],
+        "Name": "Pleasant Plains",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.22950350260034",
+            "40.506081653463085"
+        ],
+        "Name": "Butler Manor",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.23215775896533",
+            "40.530531482833176"
+        ],
+        "Name": "Charleston",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.21572851113959",
+            "40.549404006500765"
+        ],
+        "Name": "Rossville",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.185886745839",
+            "40.549285822783254"
+        ],
+        "Name": "Arden Heights",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.19150620964295",
+            "40.559712496342954"
+        ],
+        "Name": "Greenridge",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.15902208156608",
+            "40.589138948752854"
+        ],
+        "Name": "Heartland Village",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.18956045519697",
+            "40.59472602746298"
+        ],
+        "Name": "Chelsea",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.18725638381574",
+            "40.60577868452362"
+        ],
+        "Name": "Bloomfield",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.15940948657129",
+            "40.60959180042034"
+        ],
+        "Name": "Bulls Head",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-73.95325646837121",
+            "40.78268256712574"
+        ],
+        "Name": "Carnegie Hill",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-73.98843368023604",
+            "40.72325901885772"
+        ],
+        "Name": "Noho",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-74.00541529873362",
+            "40.715228920462856"
+        ],
+        "Name": "Civic Center",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-73.98871313285254",
+            "40.748509664312245"
+        ],
+        "Name": "Midtown South",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-74.13405729862578",
+            "40.56960594275509"
+        ],
+        "Name": "Richmond Town",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.06667766061778",
+            "40.609719340792886"
+        ],
+        "Name": "Shore Acres",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.07264244548406",
+            "40.61917845202847"
+        ],
+        "Name": "Clifton",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.08402364740365",
+            "40.604473189687944"
+        ],
+        "Name": "Concord",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.09776206972529",
+            "40.606794394801035"
+        ],
+        "Name": "Emerson Hill",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.09805062373894",
+            "40.63563000681155"
+        ],
+        "Name": "Randall Manor",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.1862233174983",
+            "40.638432837947995"
+        ],
+        "Name": "Howland Hook",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.14181678968897",
+            "40.63014674119387"
+        ],
+        "Name": "Elm Park",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-73.91665331978055",
+            "40.65211745179353"
+        ],
+        "Name": "Remsen Village",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.885117763793",
+            "40.66274427969663"
+        ],
+        "Name": "New Lots",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.90233474295843",
+            "40.63131755039671"
+        ],
+        "Name": "Paerdegat Basin",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.9151539155041",
+            "40.615974239623405"
+        ],
+        "Name": "Mill Basin",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.796464620816",
+            "40.71145964370486"
+        ],
+        "Name": "Jamaica Hills",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.79671678028357",
+            "40.7335002542976"
+        ],
+        "Name": "Utopia",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.80486120040544",
+            "40.73493618075482"
+        ],
+        "Name": "Pomonok",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.89467996270581",
+            "40.770317392998244"
+        ],
+        "Name": "Astoria Heights",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.90119903387674",
+            "40.83142834161551"
+        ],
+        "Name": "Claremont Village",
+        "Borough": "Bronx"
+    },
+    {
+        "the_geom": [
+            "-73.91584652759016",
+            "40.82478049084294"
+        ],
+        "Name": "Concourse Village",
+        "Borough": "Bronx"
+    },
+    {
+        "the_geom": [
+            "-73.91655551964426",
+            "40.843826176716576"
+        ],
+        "Name": "Mount Eden",
+        "Borough": "Bronx"
+    },
+    {
+        "the_geom": [
+            "-73.90829930881995",
+            "40.84884160724669"
+        ],
+        "Name": "Mount Hope",
+        "Borough": "Bronx"
+    },
+    {
+        "the_geom": [
+            "-73.9635561409431",
+            "40.76028033131378"
+        ],
+        "Name": "Sutton Place",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-73.95386782130753",
+            "40.74341409007358"
+        ],
+        "Name": "Hunters Point",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.96770824581843",
+            "40.75204236950726"
+        ],
+        "Name": "Turtle Bay",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-73.97121928722272",
+            "40.74691741074023"
+        ],
+        "Name": "Tudor City",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-73.9740517046921",
+            "40.73099955477065"
+        ],
+        "Name": "Stuyvesant Town",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-73.99094710528267",
+            "40.73967304763847"
+        ],
+        "Name": "Flatiron",
+        "Borough": "Manhattan"
+    },
+    {
+        "the_geom": [
+            "-73.9181928643169",
+            "40.745651806080794"
+        ],
+        "Name": "Sunnyside Gardens",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.93244235260185",
+            "40.73725071694501"
+        ],
+        "Name": "Blissville",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.99550751888422",
+            "40.70328109093018"
+        ],
+        "Name": "Fulton Ferry",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.981116035924",
+            "40.703321498828785"
+        ],
+        "Name": "Vinegar Hill",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.93053108817347",
+            "40.67503986503241"
+        ],
+        "Name": "Weeksville",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.90331684852606",
+            "40.67786104769535"
+        ],
+        "Name": "Broadway Junction",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.98875280745047",
+            "40.70317632822696"
+        ],
+        "Name": "Dumbo",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-74.12059399718008",
+            "40.60180957631448"
+        ],
+        "Name": "Manor Heights",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.13208447484305",
+            "40.60370692627375"
+        ],
+        "Name": "Willowbrook",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.21776636068574",
+            "40.5411399220918"
+        ],
+        "Name": "Sandy Ground",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.12727240604953",
+            "40.579118742961256"
+        ],
+        "Name": "Egbertville",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-73.89213760232829",
+            "40.567375889570364"
+        ],
+        "Name": "Roxbury",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.9591845942871",
+            "40.59852509513729"
+        ],
+        "Name": "Homecrest",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.8811431920061",
+            "40.71641451115823"
+        ],
+        "Name": "Middle Village",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-74.20152556457666",
+            "40.526264067348166"
+        ],
+        "Name": "Prince's Bay",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.13792663771576",
+            "40.576506293794935"
+        ],
+        "Name": "Lighthouse Hill",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-74.22957080626948",
+            "40.519541457489126"
+        ],
+        "Name": "Richmond Valley",
+        "Borough": "Staten Island"
+    },
+    {
+        "the_geom": [
+            "-73.8266775713865",
+            "40.790601556701525"
+        ],
+        "Name": "Malba",
+        "Borough": "Queens"
+    },
+    {
+        "the_geom": [
+            "-73.8902809854761",
+            "40.68248551101694"
+        ],
+        "Name": "Highland Park",
+        "Borough": "Brooklyn"
+    },
+    {
+        "the_geom": [
+            "-73.948415153289",
+            "40.609377701137696"
+        ],
+        "Name": "Madison",
+        "Borough": "Brooklyn"
+    }
+]

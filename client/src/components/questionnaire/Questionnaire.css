@@ -1,0 +1,191 @@
+
+
+.map-questionnaire-container{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width:80%;
+  margin : 0 auto;
+}
+
+
+.form{
+  position: relative; /* or absolute , fixed */
+  width:50%;
+  height: 550px;
+  /* top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+
+  background-color: rgb(242, 251, 255);;
+  /* height:70%; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px; */
+}
+
+.autocomplete-items{
+  position: absolute;
+  top:30px;
+}
+
+.autocomplete-items div{
+  border:0.5px solid black;
+  border-top:none;
+  padding:10px;
+  cursor:pointer;
+  width:150px;
+}
+
+.autocomplete-items div:hover {
+  background-color: rgb(224, 239, 255);
+
+}
+
+/*when navigating through the items using the arrow keys:*/
+.autocomplete-active {
+  background-color: rgb(124, 182, 240) !important; 
+  color: #ffffff; 
+}
+
+
+#yearsInNeighborhood{
+  margin-bottom:20px;
+}
+
+
+.display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+
+}
+
+.notDisplay {
+  display: none;
+}
+
+label{
+  /* color:white; */
+}
+
+.floating-label{
+  position: relative;
+  top:-65px; 
+  font-size: 18px;
+  transition: all 0.2s;
+  white-space: nowrap;
+  /* align-self: flex-start;
+  left:185px; */
+
+  /* color:white; */
+}
+
+.nhoodName{
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+
+input{
+
+  color:  #2D4859; 
+  height:30px;
+  width:200px;
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: rgb(242, 251, 255);;
+}
+
+
+textarea{
+  resize: none;
+  width:70%;
+  height:20px;
+  padding:10px 15px;
+  line-height:18px;
+  margin-top:15px;
+  margin-bottom:15px;
+  background-color: rgb(242, 251, 255);;
+  border:1px solid black;
+}
+
+input:focus+label,
+input:not(:placeholder-shown)+label {
+  top: -52px;
+  -webkit-transform:  translateY(-10%);
+  transform: translateY(-10%) ;
+  font-size: 13px;
+}
+
+h2{
+  margin-bottom:10px;
+  /* color:white; */
+}
+h3{
+  margin-bottom:10px;
+  /* color:white; */
+}
+
+h3{
+  font-size:17px;
+  text-align: center;
+  padding:20px;
+  line-height: 35px;
+}
+
+
+select{
+  padding:10px;
+  /* bot */
+  border:1px solid black;
+  /* color:white; */
+  background-color: rgb(242, 251, 255);;
+}
+
+
+.recomendations-span{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  width:70%;
+  margin-top:10px;
+}
+
+.label-recommendations{
+  position:relative;
+}
+
+.fav-places-answer{
+  margin-bottom:25px;
+  margin-top:10px;
+}
+
+.fav-places-label{
+  margin-top:10px;
+}
+
+
+
+
+.arrows-container{
+  display:flex;
+  justify-content: space-evenly;
+  margin-top:10px;
+}
+#prev {
+  font-size: 50px;
+  /* color: white; */
+  cursor: pointer;
+
+}
+#next {
+  font-size: 50px;
+  /* color: white; */
+  cursor: pointer;
+}
+
+

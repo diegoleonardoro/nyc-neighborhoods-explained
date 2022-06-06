@@ -6,6 +6,8 @@ import Map from "./components/Map";
 import Illustration from "./components/Illustration";
 import "./App.css";
 
+import Questionnaire from "./components/questionnaire/Questionnaire";
+
 import boroughsData from "./data/boroughsData.json";
 
 //--- get the neighborhood names from each borough --- :
@@ -37,6 +39,12 @@ const selectNeighborhoodNames = array => {
 const neighborhoods = selectNeighborhoodNames(boroughsData);
 //------- ------ ------ ------ ------ ------ ------ ------ ------ ------
 
+const showQuestionnaire = () => {
+  if (window.location.pathname === "/show-your-neighborhood") {
+    return true;
+  }
+};
+
 function App() {
   const [selectedNhood, setSelectedNhood] = useState("");
 
@@ -45,12 +53,21 @@ function App() {
     neighborhoodData = boroughsData.filter(item => item.Name === selectedNhood);
   }
 
+  if (showQuestionnaire()) {
+
+    return  (
+      <div>
+        <Header labels={["About", "Log in"]} />
+        <Questionnaire />
+      </div>
+    )
+  }
   return (
     <div className="App">
-      <Header labels={["About", "Log in", "Register"]} />
+      <Header labels={["About", "Log in", "Show your neighborhood"]} />
 
-      <div className='title-illustration-container'>
-        <h1 className="title">Explore Neighborhoods:</h1>
+      <div className="title-illustration-container">
+        <h1 className="title">Explore Neighborhoods</h1>
         <Illustration />
       </div>
 

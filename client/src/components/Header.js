@@ -2,13 +2,20 @@ import React from "react";
 import "./Header.css";
 
 const Header = ({ labels }) => {
+  
   const headerLabels = labels.map(label => {
     return (
-      <a href="/#" className="navButton" key={label}>
+      <a
+        href={`/${label.replaceAll(" ", "-").toLowerCase()}`}
+        className="navButton"
+        key={label}
+      >
         {label}
       </a>
     );
   });
+
+
   return (
     <div className="header-container">
       <header>
